@@ -2,18 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://giselejfox.github.io/posts/another-post/</loc>
-    <lastmod>2022-05-30T17:38:12-07:00</lastmod>
+    <loc>https://giselejfox.github.io/about/</loc>
+    <lastmod>2022-05-30T20:05:12-07:00</lastmod>
+  </url><url>
+    <loc>https://giselejfox.github.io/another-post/</loc>
+    <lastmod>2022-05-30T20:12:23-07:00</lastmod>
   </url><url>
     <loc>https://giselejfox.github.io/</loc>
-    <lastmod>2022-05-30T17:38:12-07:00</lastmod>
+    <lastmod>2022-05-30T20:19:20-07:00</lastmod>
   </url><url>
-    <loc>https://giselejfox.github.io/posts/</loc>
-    <lastmod>2022-05-30T17:38:12-07:00</lastmod>
+    <loc>https://giselejfox.github.io/post/</loc>
+    <lastmod>2022-05-30T20:12:23-07:00</lastmod>
   </url><url>
-    <loc>https://giselejfox.github.io/posts/my-first-post/</loc>
-    <lastmod>2022-05-30T17:22:18-07:00</lastmod>
+    <loc>https://giselejfox.github.io/my-first-post/</loc>
+    <lastmod>2022-05-30T20:12:23-07:00</lastmod>
   </url><url>
     <loc>https://giselejfox.github.io/tags/</loc>
+    <lastmod>2022-05-30T20:12:23-07:00</lastmod>
+  </url><url>
+    <loc>https://giselejfox.github.io/tags/test/</loc>
+    <lastmod>2022-05-30T20:12:23-07:00</lastmod>
+  </url><url>
+    <loc>https://giselejfox.github.io/tags/try/</loc>
+    <lastmod>2022-05-30T20:12:23-07:00</lastmod>
   </url>
 </urlset>
