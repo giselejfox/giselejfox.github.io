@@ -1,7 +1,19 @@
 .row {
     display: flex;
-  }
+}
   
-  .column {
-    flex: 50%;
-  }
+.column {
+    flex: 5%;
+    margin-top: 0rem;
+}
+
+.descr-column {
+    flex-grow: 4; 
+    margin-left: 1rem;
+}
+
+.til-image {
+    width: 7rem;
+    height: 7rem;
+    object-fit: cover;
+}
