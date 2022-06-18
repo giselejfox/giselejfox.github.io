@@ -5,15 +5,37 @@
 .column {
     flex: 5%;
     margin-top: 0rem;
+    margin-left: 1rem;
 }
 
+/* The text to the left of the image in a "things I like" item */
 .descr-column {
     flex-grow: 4; 
     margin-left: 1rem;
 }
 
+/* The images to the left of text in a "things I like" item */
 .til-image {
     width: 7rem;
     height: 7rem;
     object-fit: cover;
+}
+
+/* The text next to images in a project post */
+.post-text-col {
+    flex-grow: 7; 
+    flex-basis: 100%;
+    margin-left: 0rem;
+} 
+
+/* the images next to text in a project post */
+.post-image {
+    width: 11rem;
+    height: auto;
+    margin: 1rem;
+}
+
+.post-image-col {
+    flex: 50%;
+    width: 11rem;
 }

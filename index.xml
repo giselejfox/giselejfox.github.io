@@ -18,12 +18,12 @@
     </item>
     
     <item>
-      <title>Another Post</title>
-      <link>https://giselejfox.github.io/another-post/</link>
+      <title>Canvas to Notion Rest API Link</title>
+      <link>https://giselejfox.github.io/canvas-to-notion-rest-api-link/</link>
       <pubDate>Mon, 30 May 2022 17:37:52 -0700</pubDate>
       
-      <guid>https://giselejfox.github.io/another-post/</guid>
-      <description>Let&amp;rsquo;s try another one! </description>
+      <guid>https://giselejfox.github.io/canvas-to-notion-rest-api-link/</guid>
+      <description>Intentions/Inspirations I&amp;rsquo;ve used Notion for everything life and school related since discovering it in the summer of 2020. I&amp;rsquo;ve played around with relational databases, spent hours making uber specific formulas, and tried to get anyone I can to take a look at the large tree of content I&amp;rsquo;ve slowly been collecting and sorting over the months. So, needless to say, when Notion released it&amp;rsquo;s beta API in May 2020 I was on the edge of my seat!</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       
       <guid>https://giselejfox.github.io/things-i-like/</guid>
       <description>A master list I add to from time to time
- This Tour of Douglas Wan&#39;s Micro Studio - I think this is the perfect apartmnet tour and I think this is the perfect living space. His bed/couch/table combo is the most ingeniuos solution to a studio I&#39;ve seen and I actively try to model my living spaces after this one apartment.    Poet Square Cats - An Arizona based cat colony headed by Sad Boy and Lola.</description>
+ Dear Hank and John - A banter podcast between two brothers, Hank Green and John Green, that I could probably listen to until the end of time. Whenever I need some comfort after a long day I&#39;ll pop on some headphones, take a walk at sunset, and listen in.    This Tour of Douglas Wan&#39;s Micro Studio - I think this is the perfect apartmnet tour and I think this is the perfect living space.</description>
     </item>
     
     <item>
@@ -42,7 +42,16 @@
       <pubDate>Mon, 30 May 2022 17:22:03 -0700</pubDate>
       
       <guid>https://giselejfox.github.io/my-first-post/</guid>
-      <description>Test! </description>
+      <description>Test! test in new branch</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://giselejfox.github.io/amsterdam-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://giselejfox.github.io/amsterdam-blog/</guid>
+      <description></description>
     </item>
     
   </channel>
