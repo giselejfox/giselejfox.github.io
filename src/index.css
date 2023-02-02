@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Homepage styling */
+#homepage-spread {
+  margin-top: 5rem;
+}
+
+#homepage-text {
+  margin-top: 3rem;
+}
+
+#gisele-hi{
+  font-size: 4rem
+}
+
+#info-text{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+#homepage-image {
+  width: 25rem;
+}
+
