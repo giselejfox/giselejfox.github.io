@@ -12,6 +12,16 @@ code {
     monospace;
 }
 
+/* Navbar styling */
+.navbar-nav {
+  background-color: white;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: black;
+}
+
 /* Homepage styling */
 #homepage-spread {
   margin-top: 5rem;
