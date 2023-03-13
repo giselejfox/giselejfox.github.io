@@ -59,3 +59,13 @@ footer {
   font-style: italic;
   text-align: left;
 }
+
+/* ________ Projects styling ________ */
+#projects-header {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.card-title {
+  margin-top: 1rem
+}

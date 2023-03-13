@@ -1,5 +1,6 @@
 import './App.css';
-import { Route, Routes, Navigate, Outlet } from "react-router-dom";
+import { Route } from "react-router-dom";
+import { HashRouter, Routes, Navigate } from 'react-router-dom';
 import React from "react";
 
 // Import other js files
@@ -10,14 +11,17 @@ import Projects from './components/Projects';
 
 function App() {
   return (
-    <div className="App">
-      <NavBar />
-      <Routes>
-        <Route path="/home" element={<HomePage />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path='/*' element={<Navigate to={'/home'} />} />
-      </Routes>
-    </div>
+    <HashRouter basename="/" >
+      <div className="App">
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path='/*' element={<Navigate to={'/'} />} />
+        </Routes>
+      </div>
+    </HashRouter>
+
   );
 }
 
