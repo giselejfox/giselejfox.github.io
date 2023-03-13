@@ -2,26 +2,10 @@
 
 /* import the necessary Bootstrap files */
 @import "bootstrap";
+@import 'https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap';
 
-/* ------- customize primary buttons -------- */   
-$mynewcolor:#77cccc;
-
-/* 
-@mixin button-variant(
-  $background,
-  $border,
-  $color: color-contrast($background),
-  $hover-background: if($color == $color-contrast-light, shade-color($background, $btn-hover-bg-shade-amount), tint-color($background, $btn-hover-bg-tint-amount)),
-  $hover-border: if($color == $color-contrast-light, shade-color($border, $btn-hover-border-shade-amount), tint-color($border, $btn-hover-border-tint-amount)),
-  $hover-color: color-contrast($hover-background),
-  $active-background: if($color == $color-contrast-light, shade-color($background, $btn-active-bg-shade-amount), tint-color($background, $btn-active-bg-tint-amount)),
-  $active-border: if($color == $color-contrast-light, shade-color($border, $btn-active-border-shade-amount), tint-color($border, $btn-active-border-tint-amount)),
-  $active-color: color-contrast($active-background),
-  $disabled-background: $background,
-  $disabled-border: $border,
-  $disabled-color: color-contrast($disabled-background)
-)
-*/
+// Font variables
+$rubik:             'Rubik', sans-serif;
 
 .btn-primary {
     @include button-variant(
@@ -33,11 +17,14 @@ $mynewcolor:#77cccc;
     );
 }
 
-.btn-outline-primary {
-    @include button-outline-variant(
-        $mynewcolor, 
-        #222222, 
-        lighten($mynewcolor,5%), 
-        $mynewcolor
-    );
+.btn {
+    font-family: $rubik;
+    font-weight: 500;
 }
+
+
+.nav-link {
+    color: black;
+    font-size: 1.25rem;
+}
+

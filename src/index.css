@@ -18,23 +18,24 @@ code {
   font-weight: bold;
 }
 
-.nav-link {
-  color: black;
-}
 
 /* Footer Styling */
 footer {
   background-color: white;
 }
 
-/* Homepage styling */
-#homepage-spread {
-  margin-top: 5rem;
+.footer-image {
+  height: 1rem;
 }
 
-#homepage-text {
-  margin-top: 3rem;
+/* Homepage styling */
+#homepage-spread {
+  margin-top: 8rem;
 }
+
+/* #homepage-text {
+  margin-top: 3rem;
+} */
 
 #homepage-gisele-hi {
   font-size: 3rem;
@@ -54,6 +55,7 @@ footer {
   width: 25rem;
 }
 
-.btn {
-  --bs-btn-bg: black;
+#homepage-graduating {
+  font-style: italic;
+  text-align: left;
 }
