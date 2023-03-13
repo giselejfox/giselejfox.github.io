@@ -5,6 +5,7 @@ export default function Projects() {
     return (
         <div className="container">
             <h1>Projects</h1>
+            <h2>Under constrution :)</h2>
         </div>
     )
 }
