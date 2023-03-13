@@ -12,14 +12,14 @@ code {
     monospace;
 }
 
-/* Navbar styling */
+/* _________Navbar styling _________ */
 .navbar-nav {
   background-color: white;
   font-weight: bold;
 }
 
 
-/* Footer Styling */
+/* _________Footer Styling ___________ */
 footer {
   background-color: white;
 }
@@ -28,14 +28,14 @@ footer {
   height: 1rem;
 }
 
-/* Homepage styling */
+/* ________ Homepage styling ________ */
 #homepage-spread {
   margin-top: 8rem;
 }
 
-/* #homepage-text {
+#homepage-text {
   margin-top: 3rem;
-} */
+}
 
 #homepage-gisele-hi {
   font-size: 3rem;
