@@ -3,6 +3,7 @@
 body {
   margin: 0;
   font-family: 'Rubik', sans-serif !important;
+  /* font-family: 'Poppins', sans-serif !important; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -13,11 +14,18 @@ code {
 }
 
 /* _________Navbar styling _________ */
+.navbar {
+  margin-top: 2rem
+}
+
 .navbar-nav {
   background-color: white;
   font-weight: bold;
 }
 
+.nav-link {
+  margin-right: 1.5rem
+}
 
 /* _________Footer Styling ___________ */
 footer {
@@ -39,7 +47,7 @@ footer {
 
 #homepage-gisele-hi {
   font-size: 3rem;
-  font-weight: 700
+  font-weight: 600
 }
 
 #homepage-intro {
@@ -61,11 +69,23 @@ footer {
 }
 
 /* ________ Projects styling ________ */
-#projects-header {
+.page-header {
   margin-top: 4rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .card-title {
   margin-top: 1rem
+}
+
+.project-row {
+  margin-bottom: 2rem;
+}
+
+.tech-text {
+  font-style:italic;
+}
+
+.project-button {
+  width: 8rem
 }

@@ -20,15 +20,12 @@ export default function NavBar() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="container-fluid justify-content-end">
-                        <Link class="nav-link" to="/projects" >Projects</Link>
-                        <Link class="nav-link" to="/projects" >Resume</Link>
-                        <Link class="nav-link" to="/projects" >About</Link>
+                        <Link className="nav-link" to="/projects" >Projects</Link>
+                        <Link className="nav-link" to="https://drive.google.com/file/d/1htHVG-OB8vNevPsYqjjDDhsSHjqaHo_j/view?usp=sharing" target="_blank" rel="noreferrer noopener" >Resume</Link>
+                        <Link className="nav-link" to="/about" >About</Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
         </Navbar>
-        
     )
 }
-
-// Gisele Fox, Projects, About, Resume

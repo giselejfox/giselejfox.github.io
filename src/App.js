@@ -7,6 +7,7 @@ import React from "react";
 import NavBar from "./components/NavBar.js";
 import HomePage from "./components/HomePage.js"
 import Projects from './components/Projects';
+import About from './components/About';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/projects" element={<Projects />} />
+          <Route path="/about" element={<About />} />
           <Route path='/*' element={<Navigate to={'/'} />} />
         </Routes>
       </div>
