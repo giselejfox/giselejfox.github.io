@@ -53,33 +53,13 @@ footer {
 
 /* ________ Homepage styling ________ */
 
-.homepage-spread {
-  display: flex;
-  flex-direction: row;
-  /* flex-wrap: wrap; */
-  align-items: center;
+.nav-incl-whole-page {
   height: 100vh;
   margin-top: -98px;
-  justify-content: center;
 }
 
-.content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 100vh;
-  align-items: flex-start;
+.homepage-content {
   margin-left: 2rem;
-}
-
-
-
-#homepage-content-row {
-  margin: auto;
-}
-
-#homepage-text {
-  margin-top: 3rem;
 }
 
 #homepage-name {
@@ -91,34 +71,10 @@ footer {
   margin-top: 0.5rem;
 }
 
-/* #homepage-intro {
-  font-size: 2rem
-} */
-
-#info-text{
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-/* #homepage-image {
+.homepage-image {
   width: 25rem;
   align-self: center;
-} */
-
-.homepage-image-div {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 100vh;
-  align-items: center;
-  margin-left: 2rem;
-  width: 50%;
 }
-
-/* #homepage-graduating {
-  font-style: italic;
-  text-align: left;
-} */
 
 /* ________ Projects styling ________ */
 .page-header {
