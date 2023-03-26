@@ -31,11 +31,13 @@ $rubik:             'Rubik', sans-serif;
     font-size: .9rem;
     font-weight: 400;
     text-transform: uppercase;
-    border-bottom: .15rem solid transparent;
+    // border-bottom: .15rem solid transparent;
 }
 
 .nav-link:hover {
-    border-bottom: .15rem solid black;
+    // border-bottom: .15rem solid black;
+    background-color: black;
+    color: white
 }
 
 .card-title{

@@ -60,7 +60,7 @@ footer {
 }
 
 .homepage-content {
-  margin-left: 2rem;
+  margin-left: 8rem;
 }
 
 #homepage-name {
@@ -73,14 +73,13 @@ footer {
 }
 
 .homepage-image {
-  width: 25rem;
+  height: 25rem;
   align-self: center;
 }
 
 /* ________ Projects styling ________ */
 .page-header {
   margin-top: 4rem;
-  margin-bottom: 1rem;
 }
 
 .card-title {
@@ -98,3 +97,5 @@ footer {
 .project-button {
   width: 8rem
 }
+
+

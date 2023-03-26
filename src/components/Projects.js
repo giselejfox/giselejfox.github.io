@@ -1,13 +1,13 @@
 import React from "react";
 import Card from 'react-bootstrap/Card';
-import { Button } from "react-bootstrap";
+import { Container, Row, Col, Button } from "react-bootstrap";
 
 export default function Projects() {
     return (
-        <div className="container">
+        <Container>
             <h1 className="page-header text-start" >Projects</h1>
-            <div className="row project-row" >
-                <div className="col">
+            <Row className="project-row" >
+                <Col>
                     <Card>
                         <Card.Img variant="top" src="img/huskyswaps.png" />
                         <Card.Title>Husky Swaps</Card.Title>
@@ -20,22 +20,22 @@ export default function Projects() {
                         <div className="row">
                             <div className="col project-button-col">
                                 <a href="https://huskyswaps-e2042.web.app/items#home" target="_blank" rel="noreferrer">
-                                    <Button className="project-button">
+                                    <Button variant="outline-dark" className="project-button rounded-0">
                                         Live Site
                                     </Button>
                                 </a>
                             </div>
                             <div className="col project-button-col">
                                 <a href="https://github.com/info340-wi22/project-Giselejfox" target="_blank" rel="noreferrer" >
-                                    <Button className="project-button">
+                                    <Button variant="outline-dark" className="project-button rounded-0">
                                         Github
                                     </Button>
                                 </a>
                             </div>
                         </div>
                     </Card>
-                </div>
-                <div className="col">
+                </Col>
+                <Col>
                     <Card>
                         <Card.Img variant="top" src="img/huskyswaps.png" />
                         <Card.Title>King County Data Presentation</Card.Title>
@@ -48,15 +48,15 @@ export default function Projects() {
                         <div className="row">
                             <div className="col project-button-col">
                                 <a href="https://huskyswaps-e2042.web.app/items#home" target="_blank" rel="noreferrer">
-                                    <Button className="project-button">
+                                    <Button variant="outline-dark" className="project-button rounded-0">
                                         Live Site
                                     </Button>
                                 </a>
                             </div>
                         </div>
                     </Card>
-                </div>
-                <div className="col">
+                </Col>
+                <Col>
                     <Card>
                         <Card.Img variant="top" src="img/movietimes.png" />
                         <Card.Title>The Movie Times</Card.Title>
@@ -69,22 +69,22 @@ export default function Projects() {
                         <div className="row">
                             <div className="col project-button-col">
                                 <a href="https://roshnisrikanth.shinyapps.io/The_Movie_Times_AG_1/" target="_blank" rel="noreferrer">
-                                    <Button className="project-button">
+                                    <Button variant="outline-dark" className="project-button rounded-0">
                                         Live Site
                                     </Button>
                                 </a>
                             </div>
                             <div className="col project-button-col">
                                 <a href="https://github.com/info340-wi22/project-Giselejfox" target="_blank" rel="noreferrer" >
-                                    <Button className="project-button">
+                                    <Button variant="outline-dark" className="project-button rounded-0">
                                         Github
                                     </Button>
                                 </a>
                             </div>
                         </div>
                     </Card>
-                </div>
-            </div>
-        </div>
+                </Col>
+            </Row>
+        </Container>
     )
 }
