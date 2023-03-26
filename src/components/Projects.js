@@ -12,7 +12,7 @@ export default function Projects() {
                         <Card.Img variant="top" src="img/huskyswaps.png" />
                         <Card.Title>Husky Swaps</Card.Title>
                         <Card.Text>
-                            Interactive web app that allows users to login and post clothing they want to swap with other UW students
+                            Interactive web app that allows users to login and post clothing they want to swap with other UW students. Includes user authentication with Firebase login.
                         </Card.Text>
                         <Card.Text className="tech-text" >
                             React, Firebase
@@ -40,7 +40,7 @@ export default function Projects() {
                         <Card.Img variant="top" src="img/huskyswaps.png" />
                         <Card.Title>King County Data Presentation</Card.Title>
                         <Card.Text>
-                            Interactive presentation breaking down District 3's responses to Councilmember Perry's survey.
+                            Interactive presentation breaking down the constituent interests of District 3 from responses to Councilmember Perry's survey.
                         </Card.Text>
                         <Card.Text className="tech-text" >
                             PowerBI, Excel, Data Analysis Expressions
@@ -71,6 +71,13 @@ export default function Projects() {
                                 <a href="https://roshnisrikanth.shinyapps.io/The_Movie_Times_AG_1/" target="_blank" rel="noreferrer">
                                     <Button className="project-button">
                                         Live Site
+                                    </Button>
+                                </a>
+                            </div>
+                            <div className="col project-button-col">
+                                <a href="https://github.com/info340-wi22/project-Giselejfox" target="_blank" rel="noreferrer" >
+                                    <Button className="project-button">
+                                        Github
                                     </Button>
                                 </a>
                             </div>

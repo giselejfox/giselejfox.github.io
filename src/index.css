@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
+html {
+  font-size: 16px;
+}
+
 body {
   margin: 0;
   font-family: 'Rubik', sans-serif !important;
@@ -12,6 +16,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* _________ General styling _________ */
+p {
+  font-size: 1rem
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', sans-serif;
+  text-transform: uppercase;
+}
+
 
 /* _________Navbar styling _________ */
 .navbar {
@@ -37,36 +52,73 @@ footer {
 }
 
 /* ________ Homepage styling ________ */
-#homepage-spread {
-  margin-top: 8rem;
+
+.homepage-spread {
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  align-items: center;
+  height: 100vh;
+  margin-top: -98px;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: flex-start;
+  margin-left: 2rem;
+}
+
+
+
+#homepage-content-row {
+  margin: auto;
 }
 
 #homepage-text {
   margin-top: 3rem;
 }
 
-#homepage-gisele-hi {
-  font-size: 3rem;
-  font-weight: 600
+#homepage-name {
+  /* font-size: 6rem; */
+  font-weight: 600;
+  font-size: 3.75rem;
+  line-height: 3.75rem;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
 }
 
-#homepage-intro {
+/* #homepage-intro {
   font-size: 2rem
-}
+} */
 
 #info-text{
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
-#homepage-image {
+/* #homepage-image {
   width: 25rem;
+  align-self: center;
+} */
+
+.homepage-image-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  margin-left: 2rem;
+  width: 50%;
 }
 
-#homepage-graduating {
+/* #homepage-graduating {
   font-style: italic;
   text-align: left;
-}
+} */
 
 /* ________ Projects styling ________ */
 .page-header {
@@ -79,7 +131,7 @@ footer {
 }
 
 .project-row {
-  margin-bottom: 2rem;
+  margin-bottom: 7rem;
 }
 
 .tech-text {
