@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* _________Navbar styling _________ */
 .navbar {
-  margin-top: 2rem
+  height: 80px;
 }
 
 .navbar-nav {
@@ -38,9 +38,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-.nav-link {
-  margin-right: 1.5rem
-}
+/* .nav-link {
+  margin-left: 1.5rem;
+  font-size: .9rem;
+} */
 
 /* _________Footer Styling ___________ */
 footer {
