@@ -2,69 +2,7 @@ import React from "react";
 import Card from 'react-bootstrap/Card';
 import { Container, Row, Col, Button } from "react-bootstrap";
 
-
-const AllProjectInfo = [
-    {
-        title: "BACTracker",
-        image: "BACTracker-16x9.png",
-        description: "React Native application that includes a BAC calculator tuned to your height/weight/sex and how much you've had to eat beforehand, and an information hub answering commonly asked questions about alcohol.",
-        techText: "React Native, Bootsrap, Javascript, HTML, CSS",
-        buttonInfo: [
-            {
-                link: "https://bactracker-be654.web.app/",
-                title: "Live Site"
-            },
-            {
-                link: "https://github.com/iBant-Capstone/source-code",
-                title: "Github"
-            }
-        ]
-    },
-    {
-        title: "HuskySwaps",
-        image: "huskyswaps-16x9.png",
-        description: "Interactive web app that allows users to post clothing they want to swap with other UW students. Includes user authentication with Firebase login.",
-        techText: "React, Bootsrap, Javascript, HTML, CSS, Firebase",
-        buttonInfo: [
-            {
-                link: "https://huskyswaps-e2042.web.app/items#home",
-                title: "Live Site"
-            },
-            {
-                link: "https://github.com/info340-wi22/project-Giselejfox",
-                title: "Github"
-            }
-        ]
-    },
-    {
-        title: "King County Constituent Data Presentation",
-        image: "kingcounty-16x9.png",
-        description: "Choose your own adventure based presentation breaking down the constituent interests of District 3. Results from analyzing responses to Councilmember Perry's survey.",
-        techText: "PowerBI, Excel, Data Analysis Expressions",
-        buttonInfo: [
-            {
-                link: "https://www.canva.com/design/DAFUH_5hOzM/QFMNWUBUx0o2spsb806K2w/view?utm_content=DAFUH_5hOzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
-                title: "Presentation"
-            }
-        ]
-    },
-    {
-        title: "The Movie Times",
-        image: "movietime-16x9.png",
-        description: "Interactive data interface analyzing the correlation between between COVID-19 and popularity of movies involving pandemics.",
-        techText: "R, Markdown, HTML, CSS, Shiny",
-        buttonInfo: [
-            {
-                link: "https://roshnisrikanth.shinyapps.io/The_Movie_Times_AG_1/",
-                title: "Live Site"
-            },
-            {
-                link: "https://github.com/info-201a-au20/final-project-movies",
-                title: "Github"
-            }
-        ]
-    }
-]
+import AllProjectInfo from "../data/AllProjectInfo.json"
 
 function ProjectCardButton({ link, title }) {
     return(
@@ -85,7 +23,7 @@ function ProjectCard({ image, title, description, techText, buttonInfo }) {
     })
 
     return(
-        <Col className="mb-3" >
+        <Col className="mb-5" >
             <Card className="mx-3">
                 <Card.Img variant="top" src={"img/"+image} style={{maxHeight: "fit-content", objectFit: "cover"}}/>
                 <Card.Title>{title}</Card.Title>
