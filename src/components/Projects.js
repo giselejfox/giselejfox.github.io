@@ -5,10 +5,26 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 
 const AllProjectInfo = [
     {
+        title: "BACTracker",
+        image: "BACTracker-screens.png",
+        description: "React Native application that includes a BAC calculator tuned to your height/weight/sex and how much you've had to eat beforehand, and an information hub answering commonly asked questions about alcohol.",
+        techText: "React Native, Bootsrap, Javascript, HTML, CSS",
+        buttonInfo: [
+            {
+                link: "https://bactracker-be654.web.app/",
+                title: "Live Site"
+            },
+            {
+                link: "https://github.com/iBant-Capstone/source-code",
+                title: "Github"
+            }
+        ]
+    },
+    {
         title: "HuskySwaps",
         image: "huskyswaps.png",
-        description: "Interactive web app that allows users to login and post clothing they want to swap with other UW students. Includes user authentication with Firebase login.",
-        techText: "React, Bootsrap, HTML, CSS, Firebase",
+        description: "Interactive web app that allows users to post clothing they want to swap with other UW students. Includes user authentication with Firebase login.",
+        techText: "React, Bootsrap, Javascript, HTML, CSS, Firebase",
         buttonInfo: [
             {
                 link: "https://huskyswaps-e2042.web.app/items#home",
@@ -21,14 +37,14 @@ const AllProjectInfo = [
         ]
     },
     {
-        title: "King County Data Presentation",
+        title: "King County Constituent Data Presentation",
         image: "huskyswaps.png",
-        description: "Interactive presentation breaking down the constituent interests of District 3 from responses to Councilmember Perry's survey.",
+        description: "Choose your own adventure based presentation breaking down the constituent interests of District 3. Results from analyzing responses to Councilmember Perry's survey.",
         techText: "PowerBI, Excel, Data Analysis Expressions",
         buttonInfo: [
             {
                 link: "https://www.canva.com/design/DAFUH_5hOzM/QFMNWUBUx0o2spsb806K2w/view?utm_content=DAFUH_5hOzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
-                title: "Live Presentation"
+                title: "Presentation"
             }
         ]
     },
@@ -43,8 +59,8 @@ const AllProjectInfo = [
                 title: "Live Site"
             },
             {
-                link: "https://roshnisrikanth.shinyapps.io/The_Movie_Times_AG_1/",
-                title: "Live Site"
+                link: "https://github.com/info-201a-au20/final-project-movies",
+                title: "Github"
             }
         ]
     }
@@ -69,9 +85,9 @@ function ProjectCard({ image, title, description, techText, buttonInfo }) {
     })
 
     return(
-        <Col>
-            <Card>
-                <Card.Img variant="top" src={"img/"+image} />
+        <Col className="mb-3" >
+            <Card className="mx-3">
+                <Card.Img variant="top" src={"img/"+image} style={{maxHeight: "fit-content", objectFit: "cover"}}/>
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>{description}</Card.Text>
                 <Card.Text className="tech-text">{techText}</Card.Text>
@@ -92,7 +108,7 @@ export default function Projects() {
     return (
         <Container>
             <h1 className="page-header text-start" >Projects</h1>
-            <Row className="project-row" >
+            <Row className="project-row mt-5" xs={1} md={2} xl={3} >
                 {projectCards}
             </Row>
         </Container>

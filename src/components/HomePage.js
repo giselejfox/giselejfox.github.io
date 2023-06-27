@@ -10,8 +10,8 @@ export default function HomePage() {
 
     useEffect(() => {
         const interval = setInterval(() => {
-          setCurrentImageIndex(currentImageIndex => (currentImageIndex + 1) % 7); // 8 is hoe many images I have in the folder!
-        }, 3000);
+          setCurrentImageIndex(currentImageIndex => (currentImageIndex + 1) % 7); // 8 is how many images I have in the folder!
+        }, 2500);
 
         return () => clearInterval(interval);
     }, []);
