@@ -6,7 +6,7 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 const AllProjectInfo = [
     {
         title: "BACTracker",
-        image: "BACTracker-screens.png",
+        image: "BACTracker-16x9.png",
         description: "React Native application that includes a BAC calculator tuned to your height/weight/sex and how much you've had to eat beforehand, and an information hub answering commonly asked questions about alcohol.",
         techText: "React Native, Bootsrap, Javascript, HTML, CSS",
         buttonInfo: [
@@ -22,7 +22,7 @@ const AllProjectInfo = [
     },
     {
         title: "HuskySwaps",
-        image: "huskyswaps.png",
+        image: "huskyswaps-16x9.png",
         description: "Interactive web app that allows users to post clothing they want to swap with other UW students. Includes user authentication with Firebase login.",
         techText: "React, Bootsrap, Javascript, HTML, CSS, Firebase",
         buttonInfo: [
@@ -38,7 +38,7 @@ const AllProjectInfo = [
     },
     {
         title: "King County Constituent Data Presentation",
-        image: "huskyswaps.png",
+        image: "kingcounty-16x9.png",
         description: "Choose your own adventure based presentation breaking down the constituent interests of District 3. Results from analyzing responses to Councilmember Perry's survey.",
         techText: "PowerBI, Excel, Data Analysis Expressions",
         buttonInfo: [
@@ -50,7 +50,7 @@ const AllProjectInfo = [
     },
     {
         title: "The Movie Times",
-        image: "movietimes.png",
+        image: "movietime-16x9.png",
         description: "Interactive data interface analyzing the correlation between between COVID-19 and popularity of movies involving pandemics.",
         techText: "R, Markdown, HTML, CSS, Shiny",
         buttonInfo: [
