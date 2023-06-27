@@ -27,7 +27,8 @@ export default function About() {
                 <Col xs={12} md={7} className="about-content d-flex flex-column align-items-start">
                     <h1 className="text-start end-section-lg"><div className="fw-lighter fs-3">👋 Hello! I'm </div><strong>Gisele Fox</strong></h1>
                     <h2>About Me</h2>
-                    <p className="text-start end-section-lg">I'm an information professional excited about leveraging technology to enhance people's experience of the physical world, whether it be appreicating the outdoors or creating more efficient urban space.</p>
+                    <p className="text-start">I'm an information professional excited about leveraging technology to enhance people's experience of the physical world, whether it be appreicating the outdoors or creating more efficient urban space.</p>
+                    <p className="text-start end-section-lg">Graduating from the University of Washington's iSchool in August 2023</p>
                     <h2>Fun Facts</h2>
                     <ul className="text-start end-section-lg">
                         <li>I grew up for 5 years in Italy and can speak fluent Italian. (Ciao mi amici!)</li>
