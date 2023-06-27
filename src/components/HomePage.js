@@ -24,7 +24,7 @@ export default function HomePage() {
                         <div className="homepage-content">
                             <p>Hi, my name is</p>
                             <h1 id="homepage-name" className="fw-bold">Gisele Fox</h1>
-                            <p>I'm a <strong>full-stack web developer</strong> and <strong>data analyst</strong></p>
+                            <p>I'm a <strong>front-end web developer</strong> and <strong>data analyst</strong></p>
                             <Link to="/projects">
                                 <Button variant="outline-dark" className="float-start rounded-0">Check out my projects here!</Button>
                             </Link>
