@@ -2,7 +2,7 @@
     {
         "title": "BACTracker",
         "image": "BACTracker-16x9.png",
-        "description": "React Native application that includes a BAC calculator tuned to your height/weight/sex and how much you've had to eat beforehand, and an information hub answering commonly asked questions about alcohol.",
+        "description": "React Native application that includes a BAC calculator tuned to your height/weight/sex and an information hub answering commonly asked questions about alcohol.",
         "techText": "React Native, Bootsrap, Javascript, HTML, CSS",
         "buttonInfo": [
             {
@@ -34,7 +34,7 @@
     {
         "title": "King County Constituent Data Presentation",
         "image": "kingcounty-16x9.png",
-        "description": "Choose your own adventure based presentation breaking down the constituent interests of District 3. Results from analyzing responses to Councilmember Perry's survey.",
+        "description": "Choose your own adventure based presentation breaking down the constituent interests of District 3. Results come from my analysis of the responses to Councilmember Perry's survey.",
         "techText": "PowerBI, Excel, Data Analysis Expressions",
         "buttonInfo": [
             {

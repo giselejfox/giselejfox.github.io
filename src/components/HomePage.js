@@ -25,7 +25,7 @@ export default function HomePage() {
                     </Col>
                     <Col xs={{span: 12, order:"last"}} lg={{span: 6, order:"first"}} className="text-start justify-content-center d-flex flex-column">
                         <div className="homepage-content mb-4">
-                            <p>Hi, my name is</p>
+                            <p className="homepage-intro-hi">Hi, my name is</p>
                             <h1 id="homepage-name" className="fw-bold">Gisele Fox</h1>
                             <p>I'm a <strong>front-end web developer</strong> and <strong>data analyst</strong></p>
                             <Link to="/projects">
