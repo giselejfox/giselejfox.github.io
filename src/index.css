@@ -130,9 +130,15 @@ footer {
 
 /* ________ About Styling ________ */
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .about-all {
-    padding-right: 8rem !important;
-    padding-left: 8rem !important;
+    padding-right: 16rem !important;
+    padding-left: 16rem !important;
+  }
+  .about-content {
+    padding-left: 4rem !important;
+  }
+  .end-section-lg {
+    padding-bottom: 2rem !important;
   }
 }
