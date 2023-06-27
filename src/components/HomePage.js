@@ -17,11 +17,14 @@ export default function HomePage() {
     }, []);
 
     return (
-        <div className="d-flex flex-column justify-content-center align-items-center nav-incl-whole-page">
+        <div className="homepage-all d-flex justify-content-center align-items-center">
             <Container>
                 <Row>
-                    <Col lg={6} className="text-start justify-content-center d-flex flex-column">
-                        <div className="homepage-content">
+                    <Col xs={{span: 12, order:"first"}} lg={{span: 6, order:"last"}}>
+                        <img className="homepage-image" src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me"/>
+                    </Col>
+                    <Col xs={{span: 12, order:"last"}} lg={{span: 6, order:"first"}} className="text-start justify-content-center d-flex flex-column">
+                        <div className="homepage-content mb-4">
                             <p>Hi, my name is</p>
                             <h1 id="homepage-name" className="fw-bold">Gisele Fox</h1>
                             <p>I'm a <strong>front-end web developer</strong> and <strong>data analyst</strong></p>
@@ -29,9 +32,6 @@ export default function HomePage() {
                                 <Button variant="outline-dark" className="float-start rounded-0">Check out my projects here!</Button>
                             </Link>
                         </div>
-                    </Col>
-                    <Col lg={6}>
-                        <img className="homepage-image" src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me"/>
                     </Col>
                 </Row>
                 <Footer />

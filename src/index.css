@@ -54,32 +54,59 @@ footer {
 
 /* ________ Homepage styling ________ */
 
-.nav-incl-whole-page {
-  height: 100vh;
-  margin-top: -98px;
-}
-
-.homepage-content {
-  margin-left: 8rem;
-}
-
 #homepage-name {
   /* font-size: 6rem; */
   font-weight: 600;
-  font-size: 3.75rem;
+  font-size: 3rem;
   line-height: 3.75rem;
   margin-bottom: 1rem;
   margin-top: 0.5rem;
 }
 
+.homepage-all {
+  height: 100vh;
+  margin-top: -96px;
+}
+
 .homepage-image {
-  height: 25rem;
-  align-self: center;
+  height: 16rem;
+  margin-top: 3rem;
+}
+
+.homepage-content {
+  margin: 2rem;
+  margin-bottom: 5rem;
+}
+
+/* ________ Homepage Responsive Design ________ */
+
+/* When going to a larger screen */
+@media (min-width: 992px) {
+  .homepage-content {
+    margin-left: 8rem;
+  }
+  .homepage-all {
+    height: 100vh;
+    margin-top: -96px;
+  }
+  .homepage-image {
+    height: 25rem;
+    align-self: center;
+  }
+  #homepage-name {
+    /* font-size: 6rem; */
+    font-weight: 600;
+    font-size: 3.75rem;
+    line-height: 3.75rem;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+  }  
 }
 
 /* ________ Projects styling ________ */
 .page-header {
   margin-top: 4rem;
+  margin-left: 1rem
 }
 
 .card-title {
