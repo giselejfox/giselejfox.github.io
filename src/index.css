@@ -88,6 +88,9 @@ footer {
     height: 100vh;
     margin-top: -96px;
   }
+  .homepage-footer {
+    display: block;
+  } 
 }
 
 /* When going to a larger screen */
@@ -110,9 +113,6 @@ footer {
     line-height: 3.75rem;
     margin-bottom: 1rem;
     margin-top: 0.5rem;
-  } 
-  .homepage-footer {
-    display: block;
   } 
 }
 
