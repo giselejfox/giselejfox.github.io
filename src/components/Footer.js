@@ -6,7 +6,7 @@ import { mdiGithub } from "@mdi/js";
 
 export default function Footer() {
     return(
-    <MDBFooter className='text-center text-lg-start text-muted fixed-bottom'>
+    <MDBFooter className='homepage-footer text-center text-lg-start text-muted fixed-bottom'>
       <div className='text-center p-3' >
         <a href="https://www.linkedin.com/in/giselejfox/" target="_blank" rel="noreferrer" >
           <Icon 

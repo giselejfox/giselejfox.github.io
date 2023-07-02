@@ -36,6 +36,7 @@ export default function HomePage() {
                 </Row>
                 <Footer />
             </Container>   
+            <div style={{height:"6rem", width:"1rem"}}></div>
         </div>
     )
 }

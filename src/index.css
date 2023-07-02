@@ -57,13 +57,12 @@ footer {
 #homepage-name {
   /* font-size: 6rem; */
   font-weight: 600;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 3.75rem;
 }
 
 .homepage-all {
-  height: 100vh;
-  margin-top: -96px;
+  margin-top: -3rem;
 }
 
 .homepage-image {
@@ -72,15 +71,24 @@ footer {
 }
 
 .homepage-content {
-  margin: 2rem;
-  margin-bottom: 5rem;
+  margin: 1rem;
 }
 
 .homepage-intro-hi {
   margin-bottom: 0rem;
 }
 
-/* ________ Homepage Responsive Design ________ */
+.homepage-footer {
+  display: none;
+}
+
+/* When going to a longer screen */
+@media (min-height: 578px) {
+  .homepage-all {
+    height: 100vh;
+    margin-top: -96px;
+  }
+}
 
 /* When going to a larger screen */
 @media (min-width: 992px) {
@@ -102,7 +110,10 @@ footer {
     line-height: 3.75rem;
     margin-bottom: 1rem;
     margin-top: 0.5rem;
-  }  
+  } 
+  .homepage-footer {
+    display: block;
+  } 
 }
 
 /* ________ Projects styling ________ */
