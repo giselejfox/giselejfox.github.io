@@ -20,10 +20,10 @@ export default function HomePage() {
         <div className="homepage-all d-flex justify-content-center align-items-center">
             <Container>
                 <Row>
-                    <Col xs={{span: 12, order:"first"}} lg={{span: 6, order:"last"}}>
+                    <Col xs={{span: 12, order:"first"}} lg={{span: 6, order:"last"}} className="d-flex flex-column justify-content-center">
                         <img className="homepage-image" src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me"/>
                     </Col>
-                    <Col xs={{span: 12, order:"last"}} lg={{span: 6, order:"first"}} className="text-start justify-content-center d-flex flex-column">
+                    <Col xs={{span: 12, order:"last"}} lg={{span: 6, order:"first"}} className="text-start d-flex flex-column justify-content-center">
                         <div className="homepage-content mb-4">
                             <p className="homepage-intro-hi">Hi, my name is</p>
                             <h1 id="homepage-name" className="fw-bold">Gisele Fox</h1>

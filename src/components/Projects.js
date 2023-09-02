@@ -5,12 +5,10 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 import AllProjectInfo from "../data/AllProjectInfo.json"
 
 function ProjectCardButton({ link, title }) {
-    return(
-        <div className="col project-button-col">
-            <a href={link} target="_blank" rel="noreferrer">
-                <Button variant="outline-dark" className="project-button rounded">{title}</Button>
-            </a>
-        </div>
+    return (
+        <a href={link} target="_blank" rel="noreferrer">
+            <Button variant="outline-dark" className="project-button rounded">{title}</Button>
+        </a>
     )
 }
 
@@ -29,7 +27,7 @@ function ProjectCard({ image, title, description, techText, buttonInfo }) {
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>{description}</Card.Text>
                 <Card.Text className="tech-text">{techText}</Card.Text>
-                <div className="row">
+                <div className="d-flex flex-row justify-content-around">
                     {projectButtons}
                 </div>
             </Card>

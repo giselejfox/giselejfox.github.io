@@ -1,4 +1,3 @@
-import './App.css';
 import { Route } from "react-router-dom";
 import { HashRouter, Routes, Navigate } from 'react-router-dom';
 import React from "react";
