@@ -1,13 +1,29 @@
 [
     {
+        "title": "Sole Opinion",
+        "image": "BACTracker-16x9.png",
+        "description": "Custom React form to collect perspectives on shoes. For industrial designer Olivia Oomen's capstone research.",
+        "techText": "React, Bootsrap, Javascript, HTML, CSS",
+        "buttonInfo": [
+            {
+                "link": "/sole-opinion-background",
+                "title": "Background"
+            }
+        ]
+    },
+    {
         "title": "BACTracker",
         "image": "BACTracker-16x9.png",
-        "description": "React Native application that includes a BAC calculator tuned to your height/weight/sex and an information hub answering commonly asked questions about alcohol.",
+        "description": "React Native application that includes a BAC calculator and an information hub answering commonly asked questions about alcohol.",
         "techText": "React Native, Bootsrap, Javascript, HTML, CSS",
         "buttonInfo": [
             {
+                "link": "https://bactrackerapp.web.app/",
+                "title": "Demo"
+            },
+            {
                 "link": "https://bactracker-be654.web.app/",
-                "title": "Live Site"
+                "title": "Background"
             },
             {
                 "link": "https://github.com/iBant-Capstone/source-code",
