@@ -22,7 +22,7 @@ function App() {
           <Route path="/sole-opinion-background" element={<SoleOpinionBackground />} />
           <Route path='/*' element={<Navigate to={'/'} />} />
         </Routes>
-      </div>
+      </div> 
     </HashRouter>
 
   );
