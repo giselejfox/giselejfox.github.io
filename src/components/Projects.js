@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useRef } from "react";
 import Card from 'react-bootstrap/Card';
 import { Container, Row, Col } from "react-bootstrap";
 
 import AllProjectInfo from "../data/AllProjectInfo.json"
 import { Link } from "react-router-dom";
+import gsap from 'gsap';
 
 
 export default function Projects() {
@@ -30,18 +31,32 @@ function ProjectCard({ image, title, description, techText, buttonInfo }) {
     //     )
     // })
 
+    const cardRef = useRef(null);
+
+    const handleMouseEnter = () => {
+        gsap.to(cardRef.current, {
+            rotation: 5,
+            duration: 0.2,
+            ease: 'power2.inOut'
+        });
+    };
+
+    const handleMouseLeave = () => {
+        gsap.to(cardRef.current, {
+            rotation: 0,
+            duration: 0.2,
+            ease: 'power2.inOut'
+        });
+    };
+
     return(
-        <Col className="mb-5 px-2" >
+        <Col className="mb-5 px-2">
             <a href="https://oliviaoomen.com" target="_blank" rel="noreferrer noopener" className="text-decoration-none text-dark">
-                <Card className="mx-3">
+                <Card className="mx-3" ref={cardRef} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
                     {/* Each card image should be a square */}
-                    <Card.Img className="rounded" variant="top" src={"img/"+image} style={{maxHeight: "fit-content", objectFit: "cover"}}/>
-                    <Card.Title >{title}</Card.Title>
-                    {/* <Card.Text>{description}</Card.Text> */}
+                    <Card.Img className="rounded" variant="top" src={"img/" + image} style={{ maxHeight: "fit-content", objectFit: "cover" }} />
+                    <Card.Title>{title}</Card.Title>
                     <Card.Text className="tech-text">{techText}</Card.Text>
-                    {/* <div className="d-flex flex-row flex-wrap justify-content-start">
-                        {projectButtons}
-                    </div> */}
                 </Card>
             </a>
         </Col>
