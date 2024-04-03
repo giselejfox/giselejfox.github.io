@@ -24,6 +24,7 @@ export default function NavBar() {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="container-fluid justify-content-end">
                         <Link className="nav-link" to="/projects" >Projects</Link>
+                        <Link className="nav-link" to="/blog" >Blog</Link>
                         <Link className="nav-link" to="https://drive.google.com/file/d/1eUoEhnnkuE9q-7FU8P7WZnHolb7-ipUf/view?usp=sharing" target="_blank" rel="noreferrer noopener" >Resume</Link>
                         <Link className="nav-link" to="/about" >About</Link>
                     </Nav>

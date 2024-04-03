@@ -8,6 +8,7 @@ import HomePage from "./components/HomePage.js"
 import Projects from './components/Projects';
 import About from './components/About';
 import SoleOpinionBackground from "./components/project-extra-pages/SoleOpinionBackground.js";
+import Blog from "./components/Blog.js";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/about" element={<About />} />
+          <Route path="/blog" element={<Blog />} />
           <Route path="/sole-opinion-background" element={<SoleOpinionBackground />} />
           <Route path='/*' element={<Navigate to={'/'} />} />
         </Routes>
