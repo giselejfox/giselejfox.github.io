@@ -1,9 +1,9 @@
 [
     {
-        "title": "Sole Opinion",
-        "image": "BACTracker-16x9.png",
+        "title": "Olivia Oomen's Industrial Design Portfolio",
+        "image": "olivia-oomen.jpeg",
         "description": "Custom React form to collect perspectives on shoes. For industrial designer Olivia Oomen's capstone research.",
-        "techText": "React, Bootsrap, Javascript, HTML, CSS",
+        "techText": "React, matter.js, Bootsrap",
         "buttonInfo": [
             {
                 "link": "/sole-opinion-background",
