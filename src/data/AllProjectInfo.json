@@ -9,7 +9,8 @@
                 "link": "/sole-opinion-background",
                 "title": "Background"
             }
-        ]
+        ],
+        "archived": false
     },
     {
         "title": "BACTracker",
@@ -29,7 +30,8 @@
                 "link": "https://github.com/iBant-Capstone/source-code",
                 "title": "Github"
             }
-        ]
+        ],
+        "archived": true
     },
     {
         "title": "HuskySwaps",
@@ -45,7 +47,8 @@
                 "link": "https://github.com/info340-wi22/project-Giselejfox",
                 "title": "Github"
             }
-        ]
+        ],
+        "archived": true
     },
     {
         "title": "King County Constituent Data Presentation",
@@ -57,7 +60,8 @@
                 "link": "https://www.canva.com/design/DAFUH_5hOzM/QFMNWUBUx0o2spsb806K2w/view?utm_content=DAFUH_5hOzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
                 "title": "Presentation"
             }
-        ]
+        ],
+        "archived": true
     },
     {
         "title": "The Movie Times",
@@ -73,6 +77,7 @@
                 "link": "https://github.com/info-201a-au20/final-project-movies",
                 "title": "Github"
             }
-        ]
+        ],
+        "archived": true
     }
 ]
