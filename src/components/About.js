@@ -22,7 +22,7 @@ export default function About() {
             <Row className="mt-5">
                 <Col xs={12} md={5}>
                     <h1>About Me</h1>
-                    <p>I'm an information professional currently working in Seattle as a Solutions Architect at a web agency called <a className="text-secondary" href="https://www.forumone.com">Forum One</a>. I budget projects, write technical proposals, aid in the product delivery, and help answer technical questions along the way.</p>
+                    <p>I'm currently working in Seattle as a Solutions Analyst at a web agency called <a className="text-secondary" href="https://www.forumone.com">Forum One</a>. I budget projects, write technical proposals, aid in the product delivery, and help answer technical questions along the way.</p>
                     <p>You can also find me processing my own wool at home, knitting sweaters, lifting weights, and finding the best notion setup.</p>
                     <h2>Contact</h2>
                     <div className="d-flex flow-row">

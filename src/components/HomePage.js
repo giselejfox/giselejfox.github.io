@@ -25,11 +25,11 @@ export default function HomePage() {
                     </Col>
                     <Col xs={{span: 12, order:"last"}} lg={{span: 6, order:"first"}} className="text-start d-flex flex-column justify-content-center">
                         <div className="homepage-content mb-4">
-                            <p className="homepage-intro-hi">Hi, my name is</p>
+                            {/* <p className="homepage-intro-hi">Hi, my name is</p> */}
                             <h1 id="homepage-name" className="fw-bold">Gisele Fox</h1>
-                            <p>I'm a <strong>front-end web developer</strong> and <strong>data analyst</strong></p>
+                            <p>A <strong>solutions analyst</strong> and <strong>frontend web developer</strong></p>
                             <Link to="/projects">
-                                <Button variant="outline-dark" className="float-start rounded-0">Check out my projects!</Button>
+                                <Button variant="outline-dark" className="float-start">Check out my projects!</Button>
                             </Link>
                         </div>
                     </Col>

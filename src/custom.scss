@@ -5,7 +5,7 @@
 @import 'https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap';
 
 // Font variables
-$rubik:             'Rubik', sans-serif;
+$rubik: 'Rubik', sans-serif;
 
 .btn-primary {
     @include button-variant(
@@ -20,7 +20,6 @@ $rubik:             'Rubik', sans-serif;
 
 .btn {
     font-family: $rubik;
-    // font-weight: 500;
     font-size: .9rem;
 }
 
@@ -31,11 +30,9 @@ $rubik:             'Rubik', sans-serif;
     font-size: .9rem;
     font-weight: 400;
     text-transform: uppercase;
-    // border-bottom: .15rem solid transparent;
 }
 
 .nav-link:hover {
-    // border-bottom: .15rem solid black;
     background-color: black;
     color: white
 }
