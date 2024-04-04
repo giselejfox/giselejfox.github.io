@@ -56,9 +56,7 @@ export default function About() {
                     </div>
                     <div className="rounded p-2 px-3 mt-2" style={{backgroundColor:"#bdf5bd", display:showCopiedEmailConfirmation ? "block" : "none"}}>👍 Copied email 'giselejfox@gmail.com'</div>
                 </Col>
-                <Col xs={12} md={7}>
-
-                </Col>
+                <Col xs={12} md={7}></Col>
             </Row>
         </div>
     )

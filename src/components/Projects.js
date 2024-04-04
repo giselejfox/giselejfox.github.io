@@ -35,7 +35,7 @@ function ProjectCard({ image, title, description, techText, buttonInfo }) {
 
     const handleMouseEnter = () => {
         gsap.to(cardRef.current, {
-            rotation: 5,
+            rotation: 2,
             duration: 0.2,
             ease: 'power2.inOut'
         });
