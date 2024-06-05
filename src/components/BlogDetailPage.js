@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { client } from "../contentful-client";
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
+// import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
 export default function BlogDetailPage() {
 
@@ -42,7 +42,7 @@ export default function BlogDetailPage() {
             {!isLoading &&
                 <>
                     <h1>{post.fields.externalTitle}</h1>
-                    <div>{documentToReactComponents(post.fields.blogBody)}</div>
+                    {/* <div>{documentToReactComponents(post.fields.blogBody)}</div> */}
                 </>
             }
         </div>
