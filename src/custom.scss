@@ -1,49 +1,49 @@
-/* custom.scss */    
+// /* custom.scss */    
 
-/* import the necessary Bootstrap files */
-@import "bootstrap";
-@import 'https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap';
+// /* import the necessary Bootstrap files */
+// @import "bootstrap";
+// @import 'https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap';
 
-// Font variables
-$rubik:             'Rubik', sans-serif;
+// // Font variables
+// $rubik:             'Rubik', sans-serif;
 
-.btn-primary {
-    @include button-variant(
-        black,
-        black,
-        $color: color-contrast(black),
-        $hover-background: white,
-        $hover-color: color-contrast(white),
-    );
-}
-
-
-.btn {
-    font-family: $rubik;
-    // font-weight: 500;
-    font-size: .9rem;
-}
+// .btn-primary {
+//     @include button-variant(
+//         black,
+//         black,
+//         $color: color-contrast(black),
+//         $hover-background: white,
+//         $hover-color: color-contrast(white),
+//     );
+// }
 
 
-.nav-link {
-    color: black;
-    margin-left: 1.5rem;
-    font-size: .9rem;
-    font-weight: 400;
-    text-transform: uppercase;
-    // border-bottom: .15rem solid transparent;
-}
+// .btn {
+//     font-family: $rubik;
+//     // font-weight: 500;
+//     font-size: .9rem;
+// }
 
-.nav-link:hover {
-    // border-bottom: .15rem solid black;
-    background-color: black;
-    color: white
-}
 
-.card-title{
-    margin-top: 1rem;
-}
+// .nav-link {
+//     color: black;
+//     margin-left: 1.5rem;
+//     font-size: .9rem;
+//     font-weight: 400;
+//     text-transform: uppercase;
+//     // border-bottom: .15rem solid transparent;
+// }
 
-.card {
-    border: none
-}
+// .nav-link:hover {
+//     // border-bottom: .15rem solid black;
+//     background-color: black;
+//     color: white
+// }
+
+// .card-title{
+//     margin-top: 1rem;
+// }
+
+// .card {
+//     border: none
+// }

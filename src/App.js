@@ -2,6 +2,11 @@ import { Route } from "react-router-dom";
 import { HashRouter, Routes, Navigate, Outlet } from 'react-router-dom';
 import React from "react";
 
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import { Link } from 'react-router-dom'
+
 // Import other js files
 import NavBar from "./components/NavBar.js";
 import HomePage from "./components/HomePage.js"
@@ -16,19 +21,14 @@ function App() {
   return (
     <HashRouter basename="/" >
       <div className="App">
-        <NavBar />
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/blog" element={<Outlet />}>
-            <Route path=':blogTitlePath' element={<BlogDetailPage />} />
-            <Route index element={<Blog />} />
-          </Route>
-          {/* <Route path="/sole-opinion-background" element={<SoleOpinionBackground />} /> */}
-          <Route path='/*' element={<Navigate to={'/'} />} />
-        </Routes>
+        <div className="row">
+          <div className="col-0 col-md-4">
+            <NavBar />
+          </div>
+          <div className="col-12 col-md-8">
+            gpoo
+          </div>
+        </div>
       </div> 
     </HashRouter>
 
