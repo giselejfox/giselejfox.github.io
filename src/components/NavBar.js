@@ -1,10 +1,18 @@
 import React from "react";
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import { Link } from 'react-router-dom'
 
 export default function NavBar() {
+
+    const links = [
+        { text: "About Me", url: "/about-me" },
+        { text: "Oomen's Industrial Design Portfolio", url: "/project-1" },
+    ]
+
+    const navItems = (className) => links.map((linkData) => (
+        <li className={`${className}-nav-item nav-item`} key={linkData.url}>
+          <a className="nav-link active" aria-current="page" href={linkData.url}>{linkData.text}</a>
+        </li>
+    ));
+
     return (
         <div>
             {/* Only shows on xs/s */}
@@ -16,26 +24,16 @@ export default function NavBar() {
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
-                        <li class="collapsed-nav-item nav-item">
-                            <a class="nav-link active" aria-current="page" href="google.com">Home</a>
-                        </li>
-                        <li class="collapsed-nav-item nav-item">
-                            <a class="nav-link active" aria-current="page" href="google.com">Project #1</a>
-                        </li>
+                        {navItems('collapsed')}
                     </ul>
                     </div>
                 </div>
             </nav>
             {/* shows md+ */}
-            <nav class="expanded-navbar">
+            <nav class="expanded-navbar ps-5 pt-5 vh-100 border-end border-3 border-dark">
                 <div class="container-fluid">
                     <ul class="navbar-nav">
-                        <li class="expanded-nav-item nav-item">
-                            <a class="nav-link active" aria-current="page" href="google.com">Home</a>
-                        </li>
-                        <li class="expanded-nav-item nav-item">
-                            <a class="nav-link active" aria-current="page" href="google.com">Project #1</a>
-                        </li>
+                        {navItems('expanded')}
                     </ul>
                 </div>
             </nav>

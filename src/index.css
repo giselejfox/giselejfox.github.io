@@ -2,15 +2,17 @@
 
 html {
   font-size: 16px;
+  background-color: #F5F3E8;
 }
 
 body {
   margin: 0;
   /* font-family: 'Lato', sans-serif !important; */
-  font-family: 'Rubik', sans-serif !important;
-  /* font-family: 'Poppins', sans-serif !important; */
+  /* font-family: 'Rubik', sans-serif !important; */
+  font-family: 'Poppins', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #F5F3E8 !important;
 }
 
 code {
@@ -27,13 +29,14 @@ code {
 }
 
 .expanded-nav-item {
-  font-size: 5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 /* Medium screens and over */
 @media (min-width: 768px) {
   .expanded-navbar {
-    display: block; /* Show expanded-navbar */
+    display: flex; /* Show expanded-navbar */
   }
   .collapsed-navbar{
     display: none !important; /* Default to hidden */
