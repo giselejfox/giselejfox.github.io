@@ -10,7 +10,7 @@ export default function About() {
 
     useEffect(() => {
         const interval = setInterval(() => {
-          setCurrentImageIndex(currentImageIndex => (currentImageIndex + 1) % 8); // 8 is how many images I have in the folder!
+          setCurrentImageIndex(currentImageIndex => (currentImageIndex + 1) % 7); // 8 is how many images I have in the folder!
         }, 2500);
 
         return () => clearInterval(interval);
@@ -42,23 +42,23 @@ export default function About() {
 
     return (
         <div className="container">
-            <p className="intro-paragraph pt-5">Gisele Fox is a solutions analyst and web developer with a passion for creating unique, practical solutions. Their expertise spans <span className="fw-bold">custom creative coding</span>, <span className="fw-bold">technical writing, and budgeting</span>. Currently, they work as a Solutions Analyst at Forum One in the Seattle area.</p>
+            <p className="intro-paragraph pt-4">Gisele Fox is a solutions analyst and web developer with a passion for creating unique, practical solutions. Their expertise spans <span className="fw-bold">custom creative coding</span>, <span className="fw-bold">technical writing, and budgeting</span>. Currently, they work as a Solutions Analyst at Forum One in the Seattle area.</p>
             <div className="horizontal-line"></div>
             <Row className="py-5">
                 <Col xs={12} md={4} className="d-flex align-items-center justify-content-center"><img className="homepage-image" src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me"/></Col>
-                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-3">
                     <h2 className="about-h2">EXPERIENCE</h2>
                     {dataColumn("experience")}
                 </Col>
-                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-3">
                     <h2 className="about-h2">EDUCATION</h2>
                     {dataColumn("education")}
                 </Col>
-                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-3">
                     <h2 className="about-h2">PERSONAL PROJECTS</h2>
                     {dataColumn("personal-projects")}
                 </Col>
-                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-3">
                     <h2 className="about-h2">CONTACT</h2>
                     <div className="pt-3" >
                         <h3 className="about-h3 fw-bold mb-1">EMAIL</h3>

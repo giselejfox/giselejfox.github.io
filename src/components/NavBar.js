@@ -8,7 +8,7 @@ export default function NavBar() {
     return (
         <Navbar expand="lg">
             <Container>
-                <Navbar.Brand href="/" className="fw-bold">
+                <Navbar.Brand href="/" className="fw-bold py-0 mt-4" >
                     Gisele Fox
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
