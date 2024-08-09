@@ -45,20 +45,20 @@ export default function About() {
             <p className="intro-paragraph pt-5">Gisele Fox is a solutions analyst and web developer with a passion for creating unique, practical solutions. Their expertise spans <span className="fw-bold">custom creative coding</span>, <span className="fw-bold">technical writing, and budgeting</span>. Currently, they work as a Solutions Analyst at Forum One in the Seattle area.</p>
             <div className="horizontal-line"></div>
             <Row className="py-5">
-                <Col><img className="homepage-image mx-5" style={{width: "20rem", height: "30rem"}} src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me"/></Col>
-                <Col>
+                <Col xs={12} md={4} className="d-flex align-items-center justify-content-center"><img className="homepage-image" src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me"/></Col>
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
                     <h2 className="about-h2">EXPERIENCE</h2>
                     {dataColumn("experience")}
                 </Col>
-                <Col>
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
                     <h2 className="about-h2">EDUCATION</h2>
                     {dataColumn("education")}
                 </Col>
-                <Col>
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
                     <h2 className="about-h2">PERSONAL PROJECTS</h2>
                     {dataColumn("personal-projects")}
                 </Col>
-                <Col>
+                <Col xs={12} md={2} className="pt-5 pt-md-0 px-5 px-md-0">
                     <h2 className="about-h2">CONTACT</h2>
                     <div className="pt-3" >
                         <h3 className="about-h3 fw-bold mb-1">EMAIL</h3>
@@ -69,7 +69,6 @@ export default function About() {
                         <a className="text-dark" href="https://www.linkedin.com/in/giselejfox/" target="_blank" rel="noreferrer" ><div>LinkedIn</div></a>
                         <a className="text-dark" href="https://github.com/giselejfox" target="_blank" rel="noreferrer" ><div>Github</div></a>
                     </div>
-
                 </Col>
             </Row>
         </div>

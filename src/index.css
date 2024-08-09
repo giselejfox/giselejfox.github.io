@@ -19,7 +19,12 @@ code {
 /* Main About Page */
 
 .intro-paragraph {
-  font-size: 36px;
+  font-size: 20px;
+}
+
+.homepage-image {
+  width: 10rem;
+  height: 15rem;
 }
 
 .horizontal-line {
@@ -34,4 +39,15 @@ code {
 
 .about-h3-link {
   color: black;
+}
+
+/* When going to a medium sized screen and up */
+@media (min-width: 768px) {
+  .intro-paragraph {
+    font-size: 36px;
+  }
+  .homepage-image {
+    width: 20rem;
+    height: 30rem;
+  }
 }
