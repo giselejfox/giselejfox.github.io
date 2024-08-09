@@ -16,3 +16,22 @@ code {
     monospace;
 }
 
+/* Main About Page */
+
+.intro-paragraph {
+  font-size: 36px;
+}
+
+.horizontal-line {
+  height: 2px;
+  background-color: #E2E2E2;
+  width: 100%;
+}
+
+.about-h2, .about-h3 {
+  font-size: 16px;
+}
+
+.about-h3-link {
+  color: black;
+}
