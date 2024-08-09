@@ -11,9 +11,9 @@ export default function NavBar() {
                 <Navbar.Brand href="/" className="fw-bold py-0 mt-4" >
                     Gisele Fox
                 </Navbar.Brand>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                {/* <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
-                </Navbar.Collapse>
+                </Navbar.Collapse> */}
             </Container>
         </Navbar>
     )

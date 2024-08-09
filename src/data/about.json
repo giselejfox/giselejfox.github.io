@@ -51,6 +51,12 @@
             "titleLink": "https://bactracker-be654.web.app/",
             "subtitle": "React Native, Bootstrap",
             "date": "2023"
+        },
+        {
+            "title": "Clothing Tracker",
+            "titleLink": "https://www.notion.so/templates/clothing-tracker",
+            "subtitle": "Notion, Relational Databases",
+            "date": "2022"
         }
     ]
 }
