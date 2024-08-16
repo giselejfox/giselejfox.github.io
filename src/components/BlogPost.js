@@ -1,13 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import { Link } from 'react-router-dom';
 
 export default function BlogPost() {
     const { postId } = useParams(); // Get the post ID from the URL
     const [contentAndData, setContentAndData] = useState('');
 
     useEffect(() => {
-        import("../blogs/openHand.md")
+        import(`../blogs/${postId}.md`)
             .then((res) => fetch(res.default))
             .then((res) => res.text())
             .then((text) => setContentAndData(parseFrontMatter(text)))
@@ -31,8 +32,8 @@ export default function BlogPost() {
 
     return (
         <div className="container">
+            <Link to={"/blog"}><button className='btn btn-outline-dark my-3'>⬅️ Blog</button></Link>
             <ReactMarkdown>{contentAndData.content}</ReactMarkdown>
-            <p>{postId}</p>
         </div>
     );
 }

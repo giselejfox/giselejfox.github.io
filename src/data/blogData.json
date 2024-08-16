@@ -1,3 +1,18 @@
 [
-    { "id": "openHand", "title": "Open Hands", "path": "/blogs/openHand.md" }
+    { 
+        "id": "openHand", 
+        "published": "true", 
+        "publishedDate": "8/15/24",
+        "title": "Open Hands", 
+        "description": "a brief ode to splayed hands",
+        "tags": ["random"]
+    },
+    { 
+        "id": "testPost", 
+        "published": "true", 
+        "publishedDate": "8/15/24",
+        "title": "testPost",
+        "description": "you know this is a test",
+        "tags": ["random"]
+    }
 ]
