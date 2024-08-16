@@ -1,10 +1,4 @@
----
-layout: post
-isPublished: false
-published-on: 
-title: Open Hand Appreciation
-id-title: open-hand-appreciation
----
+
 
 # Open Hand
 
