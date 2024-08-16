@@ -12,7 +12,10 @@ export default function NavBar() {
                     Gisele Fox
                 </Navbar.Brand>
                 {/* <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                <Navbar.Collapse id="basic-navbar-nav">
+                <Navbar.Collapse className="justify-content-end" id="basic-navbar-nav">
+                    <Nav className="">
+                        <Nav.Link as={Link} to="/blog">Blog</Nav.Link>
+                    </Nav>
                 </Navbar.Collapse> */}
             </Container>
         </Navbar>
