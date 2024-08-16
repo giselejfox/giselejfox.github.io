@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
     "contentful": "^10.8.6",
+    "gray-matter": "^4.0.3",
     "gsap": "^3.12.5",
     "mdb-react-ui-kit": "^5.1.0",
     "react": "^18.2.0",
