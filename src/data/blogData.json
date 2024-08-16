@@ -9,10 +9,18 @@
     },
     { 
         "id": "testPost", 
-        "published": "true", 
+        "published": "false", 
         "publishedDate": "8/15/24",
         "title": "testPost",
         "description": "you know this is a test",
         "tags": ["random"]
+    },
+    { 
+        "id": "verticalStripedHat", 
+        "published": "true", 
+        "publishedDate": "8/15/24",
+        "title": "Vertical Striped Hat",
+        "description": "I'm making a knit hat with vertical stripes",
+        "tags": ["fiber-arts", "knit"]
     }
 ]

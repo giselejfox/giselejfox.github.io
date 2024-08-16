@@ -3,6 +3,11 @@ import { useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import { Link } from 'react-router-dom';
 
+// Custom component to handle image rendering
+const CustomImage = ({ src, alt }) => {
+    return <img src={src} alt={alt} style={{ width: '100%', height: 'auto' }} />;
+};
+
 export default function BlogPost() {
     const { postId } = useParams(); // Get the post ID from the URL
     const [contentAndData, setContentAndData] = useState('');
@@ -32,8 +37,17 @@ export default function BlogPost() {
 
     return (
         <div className="container">
-            <Link to={"/blog"}><button className='btn btn-outline-dark my-3'>⬅️ Blog</button></Link>
-            <ReactMarkdown>{contentAndData.content}</ReactMarkdown>
+            <div className='row'>
+                <div className='col-lg-9'>
+                    <div className='my-3'><Link className="text-dark" to={"/blog"}>⬅️ Blog</Link></div>
+                    <ReactMarkdown
+                        components={{
+                            img: CustomImage, // Custom renderer for images
+                        }}
+                    >{contentAndData.content}</ReactMarkdown>
+                </div>
+                <div className='col-lg-3'></div>
+            </div>
         </div>
     );
 }
