@@ -1,6 +1,6 @@
 [
     { 
-        "id": "openHand", 
+        "id": "open-hand", 
         "published": "true", 
         "publishedDate": "8/15/24",
         "title": "Open Hands", 
@@ -8,7 +8,7 @@
         "tags": ["random"]
     },
     { 
-        "id": "testPost", 
+        "id": "test-post", 
         "published": "false", 
         "publishedDate": "8/15/24",
         "title": "testPost",
@@ -16,7 +16,7 @@
         "tags": ["random"]
     },
     { 
-        "id": "verticalStripedHat", 
+        "id": "vertical-striped-hat", 
         "published": "true", 
         "publishedDate": "8/15/24",
         "title": "Vertical Striped Hat",
