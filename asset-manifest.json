@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.34df8803.css",
-    "main.js": "/static/js/main.e22068d3.js",
-    "static/js/364.47c07ff9.chunk.js": "/static/js/364.47c07ff9.chunk.js",
-    "static/js/949.092c64d8.chunk.js": "/static/js/949.092c64d8.chunk.js",
-    "static/js/375.1f720f67.chunk.js": "/static/js/375.1f720f67.chunk.js",
+    "main.css": "/static/css/main.01ea5732.css",
+    "main.js": "/static/js/main.d9d68840.js",
+    "static/js/936.3cd058e1.chunk.js": "/static/js/936.3cd058e1.chunk.js",
+    "static/js/401.31f31c56.chunk.js": "/static/js/401.31f31c56.chunk.js",
+    "static/js/980.6434b755.chunk.js": "/static/js/980.6434b755.chunk.js",
     "index.html": "/index.html",
-    "static/media/open-hand.md": "/static/media/open-hand.d20e05eceb1b9b53a287.md",
-    "static/media/vertical-striped-hat.md": "/static/media/vertical-striped-hat.278acc2adde77dfa453c.md",
-    "static/media/test-post.md": "/static/media/test-post.0eb4989b9346322f4078.md",
-    "main.34df8803.css.map": "/static/css/main.34df8803.css.map",
-    "main.e22068d3.js.map": "/static/js/main.e22068d3.js.map"
+    "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.dbedb1c6bc3506c521fc.md",
+    "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
+    "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.d20e05eceb1b9b53a287.md",
+    "main.01ea5732.css.map": "/static/css/main.01ea5732.css.map",
+    "main.d9d68840.js.map": "/static/js/main.d9d68840.js.map"
   },
   "entrypoints": [
-    "static/css/main.34df8803.css",
-    "static/js/main.e22068d3.js"
+    "static/css/main.01ea5732.css",
+    "static/js/main.d9d68840.js"
   ]
 }

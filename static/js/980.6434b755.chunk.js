@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[980],{980:function(e,i,c){e.exports=c.p+"static/media/10-24-georgia-okeeffe.dbedb1c6bc3506c521fc.md"}}]);
