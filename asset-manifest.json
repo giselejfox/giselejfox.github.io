@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.01ea5732.css",
-    "main.js": "/static/js/main.d9d68840.js",
+    "main.js": "/static/js/main.99445c33.js",
     "static/js/936.3cd058e1.chunk.js": "/static/js/936.3cd058e1.chunk.js",
-    "static/js/401.31f31c56.chunk.js": "/static/js/401.31f31c56.chunk.js",
+    "static/js/401.1f719dff.chunk.js": "/static/js/401.1f719dff.chunk.js",
     "static/js/980.6434b755.chunk.js": "/static/js/980.6434b755.chunk.js",
     "index.html": "/index.html",
     "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.dbedb1c6bc3506c521fc.md",
+    "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.f064e456f8f86bba22de.md",
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
-    "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.d20e05eceb1b9b53a287.md",
     "main.01ea5732.css.map": "/static/css/main.01ea5732.css.map",
-    "main.d9d68840.js.map": "/static/js/main.d9d68840.js.map"
+    "main.99445c33.js.map": "/static/js/main.99445c33.js.map"
   },
   "entrypoints": [
     "static/css/main.01ea5732.css",
-    "static/js/main.d9d68840.js"
+    "static/js/main.99445c33.js"
   ]
 }
