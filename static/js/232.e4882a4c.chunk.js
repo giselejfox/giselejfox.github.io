@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[232],{232:function(e,i,b){e.exports=b.p+"static/media/000-film-photography.157edbbb3c6f2a7765bb.md"}}]);

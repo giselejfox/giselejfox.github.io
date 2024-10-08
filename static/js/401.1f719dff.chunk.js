@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[401],{401:function(e,i,s){e.exports=s.p+"static/media/08-24-open-hand.f064e456f8f86bba22de.md"}}]);

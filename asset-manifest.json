@@ -1,19 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.01ea5732.css",
-    "main.js": "/static/js/main.18bfadb4.js",
-    "static/js/936.3cd058e1.chunk.js": "/static/js/936.3cd058e1.chunk.js",
-    "static/js/401.1f719dff.chunk.js": "/static/js/401.1f719dff.chunk.js",
-    "static/js/980.6434b755.chunk.js": "/static/js/980.6434b755.chunk.js",
+    "main.js": "/static/js/main.7882a53d.js",
+    "static/js/620.9f9b24e9.chunk.js": "/static/js/620.9f9b24e9.chunk.js",
+    "static/js/232.e4882a4c.chunk.js": "/static/js/232.e4882a4c.chunk.js",
+    "static/js/958.0b00480e.chunk.js": "/static/js/958.0b00480e.chunk.js",
+    "static/js/522.b24d3a85.chunk.js": "/static/js/522.b24d3a85.chunk.js",
+    "static/js/555.1de90a03.chunk.js": "/static/js/555.1de90a03.chunk.js",
+    "static/js/660.d2c21ac8.chunk.js": "/static/js/660.d2c21ac8.chunk.js",
     "index.html": "/index.html",
-    "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.dbedb1c6bc3506c521fc.md",
-    "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.f064e456f8f86bba22de.md",
+    "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.b1973d182ac70b5e5d77.md",
+    "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.7f1708651f9abb643d77.md",
+    "static/media/000-film-photography.md": "/static/media/000-film-photography.157edbbb3c6f2a7765bb.md",
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
+    "static/media/000-favorite-websites.md": "/static/media/000-favorite-websites.4ccdd3565eb26ad32880.md",
+    "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "main.01ea5732.css.map": "/static/css/main.01ea5732.css.map",
-    "main.18bfadb4.js.map": "/static/js/main.18bfadb4.js.map"
+    "main.7882a53d.js.map": "/static/js/main.7882a53d.js.map"
   },
   "entrypoints": [
     "static/css/main.01ea5732.css",
-    "static/js/main.18bfadb4.js"
+    "static/js/main.7882a53d.js"
   ]
 }
