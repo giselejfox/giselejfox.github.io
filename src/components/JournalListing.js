@@ -21,11 +21,11 @@ export default function JournalListing() {
             <h1 className="visually-hidden">My Personal Archive</h1>
             <h2 className="mt-4">Ongoing Lists</h2>
             <ul className="list-unstyled row">
-                <li className="list-unstyled my-3 col-4">
+                <li className="list-unstyled my-3 col-12 col-lg-4">
                     <Link className="text-dark fw-bold" to={`/journal/000-favorite-websites`}>My Favorite Websites</Link>
                     <div>A reminder that the internet can be really cool</div>
                 </li>
-                <li className="list-unstyled my-3 col-4">
+                <li className="list-unstyled my-3 col-12 col-lg-4">
                     <Link className="text-dark fw-bold" to={`/journal/000-film-photography`}>Film Photography</Link>
                     <div>Small pieces of my life</div>
                 </li>
