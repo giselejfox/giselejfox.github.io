@@ -10,4 +10,4 @@ What stood out to me:
 
 ---
 
-![Collage centering a portrait of Georgia O'Keeffe with various artworks and personal belongings surrounding her](img/blog/georgiaOkeeffe/Georgia-Okeeffe-collage.png)
+![Collage centering a portrait of Georgia O'Keeffe with various artworks and personal belongings surrounding her](img/journal/georgiaOkeeffe/Georgia-Okeeffe-collage.png)

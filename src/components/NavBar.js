@@ -14,7 +14,7 @@ export default function NavBar() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse className="justify-content-end" id="basic-navbar-nav">
                     <Nav className="fw-bold">
-                        <Nav.Link as={Link} to="/blog">Journal</Nav.Link>
+                        <Nav.Link as={Link} to="/journal">Journal</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
