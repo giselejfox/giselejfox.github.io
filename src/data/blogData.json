@@ -22,5 +22,13 @@
         "title": "My Georgia O'Keeffe",
         "description": "test",
         "tags": ["ode"]
+    },
+    { 
+        "id": "10-24-package-myself", 
+        "published": "false", 
+        "publishedDate": "",
+        "title": "How should I package myself?",
+        "description": "test",
+        "tags": ["musing"]
     }
 ]
