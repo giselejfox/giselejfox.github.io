@@ -9,9 +9,9 @@ export default function BlogListing() {
         .map((post) => {
             return (
                 <li className="list-unstyled my-3" key={post.id}>
-                    <Link className="text-dark fw-bold" to={`/blog/${post.id}`}>{post.title}</Link>
-                    <div>{post.description}</div>
                     <div>{post.publishedDate}</div>
+                    <Link className="text-dark fw-bold" to={`/blog/${post.id}`}>{post.title}</Link>
+                    {/* <div>{post.description}</div> */}
                 </li>
             )
         })

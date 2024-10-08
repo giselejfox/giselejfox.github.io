@@ -1,26 +1,26 @@
 [
     { 
-        "id": "open-hand", 
-        "published": "true", 
+        "id": "08-24-open-hand", 
+        "published": "false", 
         "publishedDate": "8/15/24",
         "title": "Splayed Hands", 
         "description": "a brief ode to splayed hands",
         "tags": ["random", "ode"]
     },
     { 
-        "id": "test-post", 
+        "id": "08-24-ode-consignment", 
         "published": "false", 
-        "publishedDate": "8/15/24",
-        "title": "testPost",
-        "description": "you know this is a test",
-        "tags": ["random"]
+        "publishedDate": "8/24/24",
+        "title": "Ode to Curated Consignment Stores",
+        "description": "A beautiful in-person shopping experience filled with skill",
+        "tags": ["ode"]
     },
     { 
-        "id": "vertical-striped-hat", 
+        "id": "10-24-georgia-okeeffe", 
         "published": "true", 
-        "publishedDate": "8/15/24",
-        "title": "Vertical Striped Hat",
-        "description": "I'm making a knit hat with vertical stripes",
-        "tags": ["fiber-arts", "knit"]
+        "publishedDate": "10/7/24",
+        "title": "My Georgia O'Keeffe",
+        "description": "test",
+        "tags": ["ode"]
     }
 ]
