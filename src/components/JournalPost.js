@@ -17,6 +17,10 @@ const CustomLink = ({ href, children }) => {
     return <a href={href} style={{color: "#004dbf"}}>{children}</a>;
 };
 
+const CustomBlockQuote = ({ children }) => {
+    return <blockquote className='custom-blockquote'>{children}</blockquote>
+}
+
 export default function JournalPost() {
     const { postId } = useParams(); // Get the post ID from the URL
     const [contentAndData, setContentAndData] = useState('');
@@ -63,7 +67,8 @@ export default function JournalPost() {
                         components={{
                             img: CustomImage,
                             hr: CustomDivider,
-                            a: CustomLink
+                            a: CustomLink,
+                            blockquote: CustomBlockQuote
                         }}
                     >{contentAndData.content}</ReactMarkdown>
                 </div>
