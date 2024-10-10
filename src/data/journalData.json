@@ -1,34 +1,18 @@
 [
     { 
-        "id": "08-24-open-hand", 
-        "published": "false", 
-        "publishedDate": "8/15/24",
-        "title": "Splayed Hands", 
-        "description": "a brief ode to splayed hands",
-        "tags": ["random", "ode"]
-    },
-    { 
-        "id": "08-24-ode-consignment", 
-        "published": "false", 
-        "publishedDate": "8/24/24",
-        "title": "Ode to Curated Consignment Stores",
-        "description": "A beautiful in-person shopping experience filled with skill",
-        "tags": ["ode"]
+        "id": "10-24-NM-rock-museum", 
+        "published": "true", 
+        "publishedDate": "10/9/24",
+        "title": "Rocks! Rocks! Rocks!",
+        "description": "My finds from the New Mexico Bureau of Geology Mineral Museum",
+        "tags": [""]
     },
     { 
         "id": "10-24-georgia-okeeffe", 
         "published": "true", 
         "publishedDate": "10/7/24",
         "title": "My Georgia O'Keeffe",
-        "description": "test",
+        "description": "",
         "tags": ["ode"]
-    },
-    { 
-        "id": "10-24-package-myself", 
-        "published": "false", 
-        "publishedDate": "",
-        "title": "How should I package myself?",
-        "description": "test",
-        "tags": ["musing"]
     }
 ]

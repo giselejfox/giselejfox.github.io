@@ -1,4 +1,5 @@
 # Film photography
+A select collectio of my film photos throughout the years. I've never gone through more than two rolls a year and have been borrowing different cameras throughout.
 
 ## 2019
 ![Meredeth on the couch with a scarf draped over her face](/img/film-photography/2019-m-sleeping.jpeg)

@@ -11,7 +11,7 @@ export default function JournalListing() {
                 <li className="list-unstyled my-3" key={post.id}>
                     <div>{post.publishedDate}</div>
                     <Link className="text-dark fw-bold" to={`/journal/${post.id}`}>{post.title}</Link>
-                    {/* <div>{post.description}</div> */}
+                    <div>{post.description}</div>
                 </li>
             )
         })
@@ -28,7 +28,7 @@ export default function JournalListing() {
                             {/* <div>A reminder of how cool the internet can be</div> */}
                         </li>
                         <li className="list-unstyled my-3">
-                            <Link className="text-dark fw-bold" to={`/journal/000-film-photography`}>Film Photography</Link>
+                            <Link className="text-dark fw-bold" to={`/journal/000-film-photography`}>Select Film Photos</Link>
                             {/* <div>Small pieces of my life</div> */}
                         </li>
                         <li className="list-unstyled my-3">
@@ -37,7 +37,7 @@ export default function JournalListing() {
                         </li>
                     </ul>
                 </div>
-                <div className="col-12 col-lg-5">
+                <div className="col-12 col-lg-9">
                     <h2 className="mt-4">Journal</h2>
                     <ul className="list-unstyled">
                         {journalElems}
