@@ -1,27 +1,39 @@
 {
   "files": {
     "main.css": "/static/css/main.cf38f885.css",
-    "main.js": "/static/js/main.5da618fc.js",
+    "main.js": "/static/js/main.867580f5.js",
     "static/js/620.9f9b24e9.chunk.js": "/static/js/620.9f9b24e9.chunk.js",
-    "static/js/232.e4882a4c.chunk.js": "/static/js/232.e4882a4c.chunk.js",
+    "static/js/232.b92f073f.chunk.js": "/static/js/232.b92f073f.chunk.js",
     "static/js/981.fa671238.chunk.js": "/static/js/981.fa671238.chunk.js",
+    "static/js/239.4f29c0ad.chunk.js": "/static/js/239.4f29c0ad.chunk.js",
+    "static/js/988.ca9a67f0.chunk.js": "/static/js/988.ca9a67f0.chunk.js",
     "static/js/958.0b00480e.chunk.js": "/static/js/958.0b00480e.chunk.js",
     "static/js/522.b24d3a85.chunk.js": "/static/js/522.b24d3a85.chunk.js",
+    "static/js/12.418b9140.chunk.js": "/static/js/12.418b9140.chunk.js",
+    "static/js/705.3fb899db.chunk.js": "/static/js/705.3fb899db.chunk.js",
     "static/js/555.1de90a03.chunk.js": "/static/js/555.1de90a03.chunk.js",
+    "static/js/114.efebc6de.chunk.js": "/static/js/114.efebc6de.chunk.js",
     "static/js/660.d2c21ac8.chunk.js": "/static/js/660.d2c21ac8.chunk.js",
+    "static/js/172.e2bc68ed.chunk.js": "/static/js/172.e2bc68ed.chunk.js",
     "static/media/000-kindle.md": "/static/media/000-kindle.aa266339c92250e985f9.md",
+    "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
     "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.b1973d182ac70b5e5d77.md",
+    "static/media/10-24-craft-snapshot.md": "/static/media/10-24-craft-snapshot.4cce1842dd6117f6ef4b.md",
+    "static/media/10-24-knitting-3D-printing.md": "/static/media/10-24-knitting-3D-printing.6125eec21d9c0a284982.md",
+    "static/media/10-24-NM-rock-museum.md": "/static/media/10-24-NM-rock-museum.d4b9a1cec6d54186aaef.md",
     "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.7f1708651f9abb643d77.md",
-    "static/media/000-film-photography.md": "/static/media/000-film-photography.157edbbb3c6f2a7765bb.md",
+    "static/media/000-film-photography.md": "/static/media/000-film-photography.0ff44122c29b777bc49d.md",
+    "static/media/10-24-wired-mag-art.md": "/static/media/10-24-wired-mag-art.5b3d8205b6583b03d56a.md",
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
     "static/media/000-favorite-websites.md": "/static/media/000-favorite-websites.4ccdd3565eb26ad32880.md",
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
+    "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
     "main.cf38f885.css.map": "/static/css/main.cf38f885.css.map",
-    "main.5da618fc.js.map": "/static/js/main.5da618fc.js.map"
+    "main.867580f5.js.map": "/static/js/main.867580f5.js.map"
   },
   "entrypoints": [
     "static/css/main.cf38f885.css",
-    "static/js/main.5da618fc.js"
+    "static/js/main.867580f5.js"
   ]
 }
