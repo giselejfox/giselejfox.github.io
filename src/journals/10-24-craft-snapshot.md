@@ -36,12 +36,31 @@ I decided to give myself a treat and pay homage to this new era of personal fibe
 
 TODO add the picture of me and the scarf
 
-### Air dry clay magents and Bowl
+### Air dry Bowl
 
 > Price: $17
 > Time: Est. 3 hours
 
-We
+TODO get the place we went to
+TODO add pictures
+While in New Mexcio we went to ___, a cute little shop where you can get exceprional mixed drinks and play around with a pound of air dry clay. I ended up going with a bellpepper bowl for my necklaces and earrings. Once I was back in Seattle I went over with another pass of paint and modge podge for a shiny finish.
+
+### Felted hat using leftover Noro Yarn
+
+TODO: link to a Noro heart sweater link
+
+I've already tried to make a knit had with the extra Noro yarn from my Noro Heart Sweater but had to frog is as it turned me into Oliver Twist. This was a fun way to experiment with leftover yarn and explore a new medium just in time for fall and winter!
+
+TODO add collage/pics
+
+### Handspun Dickie
+
+> Price: $16
+> Time: unknown
+
+Made with the mode beautiful roving from Malabrigo Nube's collection called Diana. This is so incredibly soft and is so fun to look at with all the colors bouncing off each other. I usually wear it under by beige puffy coat and it acts as a perfect little scarf in the shape of a turtleneck.
+
+TODO add pics
 
 ## In Progress
 
@@ -74,20 +93,30 @@ TODO Collage of:
 --- Picture of the rounded jacket from that one gal
 --- The sketchbook calculations
 
+
+
+### Handspun Esther Jacket
+
+Price: $35 (sheep's fleece), $85 (mill processing)
+Time: 35 hours spinning, unknown knitting
+
+I unlocked a new emotion after finishing spinning up the roving for this cardigan, I think it was a new level of pride. 
+
+Back in April I went to the Shepard's festival in Enumclaw where I bought a full sheep's fleece from a shepard in Ellensburg. I dropped the fleece off at a Blue Mist Farm's stand where they processed it into a roving bump. After months of waiting I picked up the roving by bike closer to where I live in Seattle and spent a total of 35 hours spinning, plying, thwacking, and winding into skeins (the time doesn't include drying).
+
+Now it's onto knitting my first charted pattern! 
+
+TODO link esther sweater patter
+TODO add pics
+
+
+
+
 ### A collection of Socks!
 
 I'm in the delsional stage of knitting where I'm convinced I won't need to buy socks ever again. Thus begins the sock project of 2024 that's on hold because my needles broke...
 
 TODO pictures of socks
-
-### Felted hat using leftover Noro Yarn
-
-TODO: link to a Noro heart sweater link
-
-I've already tried to make a knit had with the extra Noro yarn from my Noro Heart Sweater but had to frog is as it turned me into Oliver Twist. I'm hoping this can be a way to experiment with leftover yarn and explore a new medium just in time for fall and winter!
-
-TODO add collage
-
 
 
 
