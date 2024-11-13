@@ -8,4 +8,4 @@ General rules
 2. Switch to main `git checkout main`
 3. Merge changes `git merge <branch-name>`
 4. Run `npm run build`
-5. Run `npm deploy`
+5. Run `npm run deploy`
