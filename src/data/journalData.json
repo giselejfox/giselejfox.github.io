@@ -22,5 +22,13 @@
         "title": "My Georgia O'Keeffe",
         "description": "",
         "tags": ["ode"]
+    },
+    { 
+        "id": "06-22-amsterdam-archive", 
+        "published": "true", 
+        "publishedDate": "07/13/22",
+        "title": "Amsterdam Musings from Summer 2022",
+        "description": "A blog from a study abroad",
+        "tags": ["ode"]
     }
 ]
