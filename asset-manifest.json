@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.cf38f885.css",
-    "main.js": "/static/js/main.4baee63f.js",
+    "main.js": "/static/js/main.ce57abc5.js",
     "static/js/620.9f9b24e9.chunk.js": "/static/js/620.9f9b24e9.chunk.js",
     "static/js/232.b92f073f.chunk.js": "/static/js/232.b92f073f.chunk.js",
-    "static/js/981.fa671238.chunk.js": "/static/js/981.fa671238.chunk.js",
+    "static/js/981.bb2d4ab4.chunk.js": "/static/js/981.bb2d4ab4.chunk.js",
     "static/js/239.4f29c0ad.chunk.js": "/static/js/239.4f29c0ad.chunk.js",
     "static/js/988.ca9a67f0.chunk.js": "/static/js/988.ca9a67f0.chunk.js",
     "static/js/958.0b00480e.chunk.js": "/static/js/958.0b00480e.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/172.e2bc68ed.chunk.js": "/static/js/172.e2bc68ed.chunk.js",
     "static/js/960.24643de0.chunk.js": "/static/js/960.24643de0.chunk.js",
     "static/media/10-24-craft-snapshot.md": "/static/media/10-24-craft-snapshot.f3d2a875cd940c27b48f.md",
-    "static/media/000-kindle.md": "/static/media/000-kindle.aa266339c92250e985f9.md",
+    "static/media/000-kindle.md": "/static/media/000-kindle.90362e031865084ad241.md",
     "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
     "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.b1973d182ac70b5e5d77.md",
@@ -32,10 +32,10 @@
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
     "main.cf38f885.css.map": "/static/css/main.cf38f885.css.map",
-    "main.4baee63f.js.map": "/static/js/main.4baee63f.js.map"
+    "main.ce57abc5.js.map": "/static/js/main.ce57abc5.js.map"
   },
   "entrypoints": [
     "static/css/main.cf38f885.css",
-    "static/js/main.4baee63f.js"
+    "static/js/main.ce57abc5.js"
   ]
 }
