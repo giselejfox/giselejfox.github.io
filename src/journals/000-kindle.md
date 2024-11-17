@@ -5,6 +5,12 @@ What continues to stand out to me even now.
 
 ## 2024
 
+### Parable of the Sower, Octavia E. Butler
+
+> All I do is observe and take notes, trying to put things down in ways that are as powerful, as simple, and as direct as I feel them.
+
+> The thing is, even with my writing problems, every time I understand a little more, I wonder why it's taken me so long-- why there was ever a time when I didn't understand a thing so obvious real and true.
+
 ### Factfulness, Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling
 
 > Knowing that most people are deluded means you don’t need to be embarrassed. Instead you can be curious: how does the illusion work?
