@@ -1,12 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.cf38f885.css",
-    "main.js": "/static/js/main.ce57abc5.js",
+    "main.js": "/static/js/main.b8f82c69.js",
     "static/js/620.9f9b24e9.chunk.js": "/static/js/620.9f9b24e9.chunk.js",
     "static/js/232.b92f073f.chunk.js": "/static/js/232.b92f073f.chunk.js",
     "static/js/981.bb2d4ab4.chunk.js": "/static/js/981.bb2d4ab4.chunk.js",
     "static/js/239.4f29c0ad.chunk.js": "/static/js/239.4f29c0ad.chunk.js",
     "static/js/988.ca9a67f0.chunk.js": "/static/js/988.ca9a67f0.chunk.js",
+    "static/js/779.5d62cdf4.chunk.js": "/static/js/779.5d62cdf4.chunk.js",
+    "static/js/903.fe05679b.chunk.js": "/static/js/903.fe05679b.chunk.js",
+    "static/js/714.5cc26317.chunk.js": "/static/js/714.5cc26317.chunk.js",
+    "static/js/730.fdb807bb.chunk.js": "/static/js/730.fdb807bb.chunk.js",
+    "static/js/535.6cb3c2c7.chunk.js": "/static/js/535.6cb3c2c7.chunk.js",
+    "static/js/849.30763ef7.chunk.js": "/static/js/849.30763ef7.chunk.js",
+    "static/js/782.a68ad691.chunk.js": "/static/js/782.a68ad691.chunk.js",
+    "static/js/987.0696c5cd.chunk.js": "/static/js/987.0696c5cd.chunk.js",
+    "static/js/750.3b64feb8.chunk.js": "/static/js/750.3b64feb8.chunk.js",
     "static/js/958.0b00480e.chunk.js": "/static/js/958.0b00480e.chunk.js",
     "static/js/522.b24d3a85.chunk.js": "/static/js/522.b24d3a85.chunk.js",
     "static/js/12.418b9140.chunk.js": "/static/js/12.418b9140.chunk.js",
@@ -16,12 +25,21 @@
     "static/js/660.d2c21ac8.chunk.js": "/static/js/660.d2c21ac8.chunk.js",
     "static/js/172.e2bc68ed.chunk.js": "/static/js/172.e2bc68ed.chunk.js",
     "static/js/960.24643de0.chunk.js": "/static/js/960.24643de0.chunk.js",
+    "static/media/07-22-community.md": "/static/media/07-22-community.75d1711b51522f9efe65.md",
     "static/media/10-24-craft-snapshot.md": "/static/media/10-24-craft-snapshot.f3d2a875cd940c27b48f.md",
+    "static/media/06-22-high-value.md": "/static/media/06-22-high-value.b3670002226892244c51.md",
+    "static/media/07-22-dok.md": "/static/media/07-22-dok.3e07095cf17227d845e5.md",
+    "static/media/07-22-museum-without-objects.md": "/static/media/07-22-museum-without-objects.2b4ad39cb10f602f23b4.md",
+    "static/media/06-22-intentional-design.md": "/static/media/06-22-intentional-design.03fd44565c29c022e28e.md",
+    "static/media/06-22-running-start.md": "/static/media/06-22-running-start.7b9c6f1cd7276e823552.md",
     "static/media/000-kindle.md": "/static/media/000-kindle.90362e031865084ad241.md",
+    "static/media/06-22-outside.md": "/static/media/06-22-outside.19fc5f945d182a23f1f7.md",
+    "static/media/06-22-greeting-amsterdam.md": "/static/media/06-22-greeting-amsterdam.0c44fc7f101c325328c4.md",
     "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
     "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.b1973d182ac70b5e5d77.md",
     "static/media/10-24-knitting-3D-printing.md": "/static/media/10-24-knitting-3D-printing.6125eec21d9c0a284982.md",
+    "static/media/07-22-reflection.md": "/static/media/07-22-reflection.e03d7868d77393434d1e.md",
     "static/media/10-24-NM-rock-museum.md": "/static/media/10-24-NM-rock-museum.d4b9a1cec6d54186aaef.md",
     "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.7f1708651f9abb643d77.md",
     "static/media/11-24-duvet-bag.md": "/static/media/11-24-duvet-bag.8b454cfae0aa04b0b202.md",
@@ -32,10 +50,10 @@
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
     "main.cf38f885.css.map": "/static/css/main.cf38f885.css.map",
-    "main.ce57abc5.js.map": "/static/js/main.ce57abc5.js.map"
+    "main.b8f82c69.js.map": "/static/js/main.b8f82c69.js.map"
   },
   "entrypoints": [
     "static/css/main.cf38f885.css",
-    "static/js/main.ce57abc5.js"
+    "static/js/main.b8f82c69.js"
   ]
 }

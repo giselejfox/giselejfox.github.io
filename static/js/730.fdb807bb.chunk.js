@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[730],{730:function(e,i,s){e.exports=s.p+"static/media/06-22-outside.19fc5f945d182a23f1f7.md"}}]);
