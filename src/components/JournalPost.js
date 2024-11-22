@@ -26,7 +26,18 @@ export default function JournalPost() {
     const [contentAndData, setContentAndData] = useState('');
 
     useEffect(() => {
-        import(`../journals/${postId}.md`)
+        // Figure out if it's a list or journal and format accordinly for the folder
+        const firstTwoChar = postId.substring(0, 2)
+        let finalPath = ""
+
+        if (firstTwoChar === "00") {   // List
+            finalPath = `lists/${postId}`
+        } else { // Journal
+            finalPath = `20${postId.substring(3, 5)}/${postId}`
+            console.log(finalPath)
+        }
+
+        import(`../journals/${finalPath}.md`)
             .then((res) => fetch(res.default))
             .then((res) => res.text())
             .then((text) => setContentAndData(parseFrontMatter(text)))
