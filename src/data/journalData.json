@@ -1,5 +1,13 @@
 [
     {
+        "id": "11-24-simple-internet", 
+        "published": "true", 
+        "publishedDate": "11/21/24",
+        "title": "Give me my simple internet back",
+        "description": "",
+        "tags": ["tech"]
+    },
+    {
         "id": "11-24-duvet-bag", 
         "published": "true", 
         "publishedDate": "11/13/24",
@@ -28,7 +36,7 @@
         "published": "true", 
         "publishedDate": "7/13/22",
         "title": "Amsterdam Reflection",
-        "description": "reflection project of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -36,7 +44,7 @@
         "published": "true", 
         "publishedDate": "7/13/22",
         "title": "Notes on Community Building",
-        "description": "part 8 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -44,7 +52,7 @@
         "published": "true", 
         "publishedDate": "7/9/22",
         "title": "What would a museum look like without objects?",
-        "description": "part 7 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -52,7 +60,7 @@
         "published": "true", 
         "publishedDate": "7/5/22",
         "title": "DOK - An Updated Library Space",
-        "description": "part 6 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -60,7 +68,7 @@
         "published": "true", 
         "publishedDate": "6/30/22",
         "title": "OBA - Where the library is high value",
-        "description": "part 5 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -68,7 +76,7 @@
         "published": "true", 
         "publishedDate": "6/28/22",
         "title": "Intentional design in museums connecting past to present",
-        "description": "part 4 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -76,7 +84,7 @@
         "published": "true", 
         "publishedDate": "6/24/22",
         "title": "It's okay to be outside in Amsterdam",
-        "description": "part 3 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
@@ -84,15 +92,15 @@
         "published": "true", 
         "publishedDate": "6/20/22",
         "title": "Off to a running start",
-        "description": "part 2 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     },
     {
         "id": "06-22-greeting-amsterdam", 
-        "published": "true", 
+        "published": "false", 
         "publishedDate": "6/19/22",
         "title": "Greeting Amsterdam",
-        "description": "part 1 of my Amsterdam study abroad series",
+        "description": "",
         "tags": ["amsterdam-2022"]
     }
 ]

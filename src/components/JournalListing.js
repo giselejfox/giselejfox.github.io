@@ -8,7 +8,7 @@ export default function JournalListing() {
         .filter((post) => post.published === "true")
         .map((post) => {
             return (
-                <li className="list-unstyled my-3" key={post.id}>
+                <li className="list-unstyled mb-3" key={post.id}>
                     <div>{post.publishedDate}</div>
                     <Link className="text-dark fw-bold" to={`/journal/${post.id}`}>{post.title}</Link>
                     <div>{post.description}</div>
