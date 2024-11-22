@@ -24,16 +24,16 @@ export default function JournalListing() {
                     <h2 className="mt-4">Lists</h2>
                     <ul className="list-unstyled ">
                         <li className="list-unstyled my-3">
+                            <Link className="text-dark fw-bold" to={'https://gisele-rss-feed.netlify.app/'}>My "RSS" Reader</Link>
+                        </li>
+                        <li className="list-unstyled my-3">
                             <Link className="text-dark fw-bold" to={`/journal/000-favorite-websites`}>My Favorite Websites</Link>
-                            {/* <div>A reminder of how cool the internet can be</div> */}
                         </li>
                         <li className="list-unstyled my-3">
                             <Link className="text-dark fw-bold" to={`/journal/000-film-photography`}>Select Film Photos</Link>
-                            {/* <div>Small pieces of my life</div> */}
                         </li>
                         <li className="list-unstyled my-3">
                             <Link className="text-dark fw-bold" to={`/journal/000-kindle`}>Highlights from My Kindle</Link>
-                            {/* <div>The lines highlighted from my Kindle</div> */}
                         </li>
                     </ul>
                 </div>
