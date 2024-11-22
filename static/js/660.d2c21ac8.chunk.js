@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[660],{660:function(e,i,s){e.exports=s.p+"static/media/10-24-package-myself.44a440c1a966d518b412.md"}}]);
