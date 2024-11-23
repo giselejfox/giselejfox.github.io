@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[970],{970:function(e,i,a){e.exports=a.p+"static/media/11-24-duvet-bag.aa8a5065fd65fea85e88.md"}}]);
