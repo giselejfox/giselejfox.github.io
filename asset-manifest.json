@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b469a48e.css",
-    "main.js": "/static/js/main.63033040.js",
+    "main.css": "/static/css/main.ddf38722.css",
+    "main.js": "/static/js/main.00035cb0.js",
     "static/js/495.9f4e5551.chunk.js": "/static/js/495.9f4e5551.chunk.js",
     "static/js/63.2cfcb2ad.chunk.js": "/static/js/63.2cfcb2ad.chunk.js",
     "static/js/329.c8493c23.chunk.js": "/static/js/329.c8493c23.chunk.js",
@@ -54,11 +54,11 @@
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
-    "main.b469a48e.css.map": "/static/css/main.b469a48e.css.map",
-    "main.63033040.js.map": "/static/js/main.63033040.js.map"
+    "main.ddf38722.css.map": "/static/css/main.ddf38722.css.map",
+    "main.00035cb0.js.map": "/static/js/main.00035cb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b469a48e.css",
-    "static/js/main.63033040.js"
+    "static/css/main.ddf38722.css",
+    "static/js/main.00035cb0.js"
   ]
 }
