@@ -7,6 +7,7 @@ import NavBar from "./components/NavBar.js";
 import About from "./components/About.js"
 import JournalListing from "./components/JournalListing.js";
 import JournalPost from "./components/JournalPost.js";
+import CreationsListing from "./components/CreationsListing.js";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Routes>
           <Route path="/journal" element={<JournalListing />} />
           <Route path="/journal/:postId" element={<JournalPost />} />
+          <Route path="/creations" element={<CreationsListing />} />
           <Route path="/" element={<About />} />
         </Routes>
       </div> 
