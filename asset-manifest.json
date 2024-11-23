@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf38f885.css",
-    "main.js": "/static/js/main.2e322bcf.js",
+    "main.css": "/static/css/main.b469a48e.css",
+    "main.js": "/static/js/main.63033040.js",
     "static/js/495.9f4e5551.chunk.js": "/static/js/495.9f4e5551.chunk.js",
     "static/js/63.2cfcb2ad.chunk.js": "/static/js/63.2cfcb2ad.chunk.js",
     "static/js/329.c8493c23.chunk.js": "/static/js/329.c8493c23.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/835.f8c6d36e.chunk.js": "/static/js/835.f8c6d36e.chunk.js",
     "static/js/356.86492325.chunk.js": "/static/js/356.86492325.chunk.js",
     "static/js/417.aaa26219.chunk.js": "/static/js/417.aaa26219.chunk.js",
-    "static/js/612.e93ccc5f.chunk.js": "/static/js/612.e93ccc5f.chunk.js",
+    "static/js/612.5e3165d2.chunk.js": "/static/js/612.5e3165d2.chunk.js",
     "static/js/222.c929f13c.chunk.js": "/static/js/222.c929f13c.chunk.js",
     "static/js/959.dae5c523.chunk.js": "/static/js/959.dae5c523.chunk.js",
     "static/js/444.459821cc.chunk.js": "/static/js/444.459821cc.chunk.js",
@@ -26,16 +26,19 @@
     "static/js/382.9fddebec.chunk.js": "/static/js/382.9fddebec.chunk.js",
     "static/js/0.7c7c9ddd.chunk.js": "/static/js/0.7c7c9ddd.chunk.js",
     "static/js/195.2b29fb0b.chunk.js": "/static/js/195.2b29fb0b.chunk.js",
+    "static/js/970.4e794571.chunk.js": "/static/js/970.4e794571.chunk.js",
+    "static/js/792.54dbe640.chunk.js": "/static/js/792.54dbe640.chunk.js",
     "static/media/07-22-community.md": "/static/media/07-22-community.75d1711b51522f9efe65.md",
     "static/media/10-24-craft-snapshot.md": "/static/media/10-24-craft-snapshot.f3d2a875cd940c27b48f.md",
     "static/media/06-22-high-value.md": "/static/media/06-22-high-value.b3670002226892244c51.md",
     "static/media/07-22-dok.md": "/static/media/07-22-dok.3e07095cf17227d845e5.md",
     "static/media/07-22-museum-without-objects.md": "/static/media/07-22-museum-without-objects.2b4ad39cb10f602f23b4.md",
     "static/media/06-22-intentional-design.md": "/static/media/06-22-intentional-design.03fd44565c29c022e28e.md",
-    "static/media/11-24-simple-internet.md": "/static/media/11-24-simple-internet.7fe9b159b4e10f37f217.md",
+    "static/media/11-24-simple-internet.md": "/static/media/11-24-simple-internet.bcc100de366b3162f582.md",
     "static/media/06-22-running-start.md": "/static/media/06-22-running-start.7b9c6f1cd7276e823552.md",
     "static/media/000-kindle.md": "/static/media/000-kindle.90362e031865084ad241.md",
     "static/media/06-22-outside.md": "/static/media/06-22-outside.19fc5f945d182a23f1f7.md",
+    "static/media/11-24-rss-reader.md": "/static/media/11-24-rss-reader.44dc0e5a00712a9cced6.md",
     "static/media/06-22-greeting-amsterdam.md": "/static/media/06-22-greeting-amsterdam.0c44fc7f101c325328c4.md",
     "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
@@ -51,11 +54,11 @@
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
-    "main.cf38f885.css.map": "/static/css/main.cf38f885.css.map",
-    "main.2e322bcf.js.map": "/static/js/main.2e322bcf.js.map"
+    "main.b469a48e.css.map": "/static/css/main.b469a48e.css.map",
+    "main.63033040.js.map": "/static/js/main.63033040.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf38f885.css",
-    "static/js/main.2e322bcf.js"
+    "static/css/main.b469a48e.css",
+    "static/js/main.63033040.js"
   ]
 }
