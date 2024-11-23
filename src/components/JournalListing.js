@@ -8,9 +8,9 @@ export default function JournalListing() {
         .filter((post) => post.published === "true")
         .map((post) => {
             return (
-                <li className="list-unstyled mb-3" key={post.id}>
-                    <div>{post.publishedDate}</div>
-                    <Link className="text-dark fw-bold" to={`/journal/${post.id}`}>{post.title}</Link>
+                <li className="list-unstyled my-4" key={post.id}>
+                    <div className="eyebrow-text">{post.publishedDate}</div>
+                    <Link className="text-dark" to={`/journal/${post.id}`}>{post.title}</Link>
                     <div>{post.description}</div>
                 </li>
             )
@@ -24,16 +24,16 @@ export default function JournalListing() {
                     <h2 className="mt-4">Lists</h2>
                     <ul className="list-unstyled ">
                         <li className="list-unstyled my-3">
-                            <Link className="text-dark fw-bold" to={'https://gisele-rss-feed.netlify.app/'}>My "RSS" Reader</Link>
+                            <Link className="text-dark" to={'https://gisele-rss-feed.netlify.app/'}>My "RSS" Reader</Link>
                         </li>
                         <li className="list-unstyled my-3">
-                            <Link className="text-dark fw-bold" to={`/journal/000-favorite-websites`}>My Favorite Websites</Link>
+                            <Link className="text-dark" to={`/journal/000-favorite-websites`}>My Favorite Websites</Link>
                         </li>
                         <li className="list-unstyled my-3">
-                            <Link className="text-dark fw-bold" to={`/journal/000-film-photography`}>Select Film Photos</Link>
+                            <Link className="text-dark" to={`/journal/000-film-photography`}>Select Film Photos</Link>
                         </li>
                         <li className="list-unstyled my-3">
-                            <Link className="text-dark fw-bold" to={`/journal/000-kindle`}>Highlights from My Kindle</Link>
+                            <Link className="text-dark" to={`/journal/000-kindle`}>Highlights from My Kindle</Link>
                         </li>
                     </ul>
                 </div>

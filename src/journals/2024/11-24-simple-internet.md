@@ -28,10 +28,6 @@ The idea is is that you can use some fancy shamncy RSS reader (if you don't make
 
 They should! But they dont... So I'm having to do some API work too in order to get feeds I care about from other platforms. It's very likely I will have more non-RSS feed content in there than what I do get from RSS feeds. C'est la vie.
 
-
-
---- 
-
 ## Other notable mentions for a non-algorithmic content experience
 - AMC A-list - Just for ~$25 a month I get to see up to 3 movies a week in the theater, that means a movie going experience can possibly cost me just a tad over $2 if I really dedicate myself. I coordinate with my friends who also have the membership (and bring my own snacks). There's a start and an end, there's community, there's discussion, and I get to see beautiful movies I wouldn't have otherwise. All the way from [Kneecap](https://www.imdb.com/title/tt27367464/) to [Deadpool and Wolverine](imdb.com/title/tt6263850)
 

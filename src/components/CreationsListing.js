@@ -8,14 +8,12 @@ export default function CreationsListing() {
         .filter((post) => post.published)
         .map((post) => {
             return (
-                <div className="col-12 col-lg-4 my-5 d-flex flex-column" key={post.id}>
-                    <Link to={`/journal/${post.id}`}>
-                        <img className="creations-img mb-3" src={`img/creations/${post.img}`} alt={post.title} />
+                <div className="col-12 col-lg-3 my-5 d-flex flex-column" key={post.id}>
+                    <Link className="text-dark text-decoration-none" to={`/creations/${post.id}`}>
+                        <img className="creations-img mb-3" src={`img/creations/icons/${post.img}`} alt={post.title} />
+                        <div className="text-decoration-none eyebrow-text">{post.publishedDate}</div>
+                        <div>{post.title}</div>
                     </Link>
-                    <div>
-                        <div>{post.publishedDate}</div>
-                        <Link className="text-dark fw-bold" to={`/journal/${post.id}`}>{post.title}</Link>
-                    </div>
                 </div>
             )
         })

@@ -1,6 +1,6 @@
 [
     {
-        "id": "duvet-bag",
+        "id": "11-24-duvet-bag",
         "title": "Bag made from an old duvet cover",
         "published": true,
         "img": "duvet-bag.png",
@@ -8,31 +8,7 @@
         "tags": ["fiber-arts", "knit", "upcycle"]
     },
     {
-        "id": "duvet-bag",
-        "title": "Bag made from an old duvet cover",
-        "published": true,
-        "img": "duvet-bag.png",
-        "publishedDate": "11/22/24",
-        "tags": ["fiber-arts", "knit", "upcycle"]
-    },
-    {
-        "id": "duvet-bag",
-        "title": "Bag made from an old duvet cover",
-        "published": true,
-        "img": "duvet-bag.png",
-        "publishedDate": "11/22/24",
-        "tags": ["fiber-arts", "knit", "upcycle"]
-    },
-    {
-        "id": "duvet-bag",
-        "title": "Bag made from an old duvet cover",
-        "published": true,
-        "img": "duvet-bag.png",
-        "publishedDate": "11/22/24",
-        "tags": ["fiber-arts", "knit", "upcycle"]
-    },
-    {
-        "id": "rss-feed",
+        "id": "11-24-rss-reader",
         "title": "Custom RSS (and more) reader",
         "published": true,
         "img": "RSS-reader.png",

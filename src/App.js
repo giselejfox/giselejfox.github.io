@@ -8,6 +8,7 @@ import About from "./components/About.js"
 import JournalListing from "./components/JournalListing.js";
 import JournalPost from "./components/JournalPost.js";
 import CreationsListing from "./components/CreationsListing.js";
+import CreationsDetail from "./components/CreationsDetail.js";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/journal" element={<JournalListing />} />
           <Route path="/journal/:postId" element={<JournalPost />} />
           <Route path="/creations" element={<CreationsListing />} />
+          <Route path="/creations/:postId" element={<CreationsDetail />} />
           <Route path="/" element={<About />} />
         </Routes>
       </div> 

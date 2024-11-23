@@ -62,10 +62,21 @@ code {
   }
 }
 
+/* Listings */
+
+.eyebrow-text {
+  font-size: 12px;
+  text-decoration: none;
+}
+
 /* Creations */
 
 .creations-img {
   max-height: 16rem;
   width: 100%;
   object-fit: contain;
+}
+
+.creation-card {
+  max-height: 16rem;
 }

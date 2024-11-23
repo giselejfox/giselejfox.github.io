@@ -3,7 +3,6 @@ import { Col, Row } from "react-bootstrap";
 
 import aboutData from "../data/about.json"
 
-
 export default function About() {
 
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -37,8 +36,6 @@ export default function About() {
             )
         })
     }
-
-
 
     return (
         <div className="container">
