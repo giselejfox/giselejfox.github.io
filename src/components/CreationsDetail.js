@@ -14,7 +14,6 @@ export default function CreationsDetail() {
     useEffect(() => {
         // get the right year folder in the path
         let finalPath = `20${postId.substring(3, 5)}/${postId}`
-        console.log("test")
         // get the markdown file
         import(`../creations/${finalPath}.md`)
             .then((res) => fetch(res.default))

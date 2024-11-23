@@ -1,5 +1,13 @@
 [
     {
+        "id": "11-24-rss-reader",
+        "title": "Custom RSS (and more) reader",
+        "published": true,
+        "img": "RSS-reader.png",
+        "publishedDate": "11/22/24",
+        "tags": ["web-development"]
+    },
+    {
         "id": "11-24-duvet-bag",
         "title": "Bag made from an old duvet cover",
         "published": true,
@@ -8,11 +16,11 @@
         "tags": ["fiber-arts", "knit", "upcycle"]
     },
     {
-        "id": "11-24-rss-reader",
-        "title": "Custom RSS (and more) reader",
+        "id": "02-24-heart-sweater",
+        "title": "Noro Heart Sweater",
         "published": true,
-        "img": "RSS-reader.png",
-        "publishedDate": "11/22/24",
-        "tags": ["web-development"]
+        "img": "heart-sweater.png",
+        "publishedDate": "02/14/24",
+        "tags": ["fiber-arts", "knit"]
     }
 ]

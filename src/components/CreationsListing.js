@@ -15,7 +15,7 @@ export default function CreationsListing() {
         .filter((post) => post.published)
         .map((post) => {
             return (
-                <div className="col-12 col-lg-3 my-5 d-flex flex-column justify-content-end" key={post.id}>
+                <div className="col-12 col-lg-3 mb-5 my-lg-5 d-flex flex-column justify-content-end" key={post.id}>
                     <Link className="text-dark text-decoration-none" to={`/creations/${post.id}`}>
                         {/* Placeholder */}
                         {imageLoading && <div className="image-placeholder">Loading...</div>}
@@ -36,7 +36,7 @@ export default function CreationsListing() {
     return (
         <div className="container">
             <h1 className="visually-hidden">Creations</h1>
-            <div className="row mt-5">
+            <div className="row mt-3 mt-lg-5">
                 {creationsElems}
             </div>
         </div>
