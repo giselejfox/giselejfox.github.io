@@ -16,6 +16,14 @@
         "tags": ["fiber-arts", "knit", "upcycle"]
     },
     {
+        "id": "09-24-wired-collage",
+        "title": "Wall art made from old Wired Magazines",
+        "published": true,
+        "img": "wired-collage.png",
+        "publishedDate": "09/13/24",
+        "tags": ["collage"]
+    },
+    {
         "id": "02-24-heart-sweater",
         "title": "Noro Heart Sweater",
         "published": true,

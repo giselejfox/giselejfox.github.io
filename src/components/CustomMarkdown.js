@@ -1,6 +1,6 @@
 // Custom component to handle image rendering
 export const CustomImage = ({ src, alt }) => {
-    return <img src={src} alt={alt} style={{ maxWidth: '100%', height: 'auto' }} />;
+    return <img src={src} alt={alt} style={{ width: 'auto', maxWidth: '100%', height: 'auto' }} />;
 };
 
 // Custom component to handle image rendering

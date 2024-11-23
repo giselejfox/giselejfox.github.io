@@ -21,7 +21,7 @@ export default function CreationsListing() {
                         {imageLoading && <div className="image-placeholder">Loading...</div>}
                         <img
                             className="creations-img mb-3"
-                            src={`img/creations/icons/${post.img}`}
+                            src={`img/creations/000-icons/${post.img}`}
                             alt={post.title}
                             onLoad={handleImageLoad}
                             style={{ display: imageLoading ? "none" : "block" }}
