@@ -10,14 +10,13 @@ I make my mom give me all her wired magazines because I love using their pages f
 
 ## process
 
-I picked up this frame and art off the side of the road a couple weeks back because I liked the size of the frame. Finally I sat down to transofrming it by taking the cardstock out of the frame and simply turning it around for a blank canvas. The rest was easy, just outline different sized circles on the colorful wired pages and watch my new piece of wall art come to life.
+I picked up this frame and art off the side of the road a couple weeks back because I liked the size of the frame. Finally I sat down to transform it by taking the cardstock out of the frame and simply turning it around for a blank canvas. The rest was easy, just outline different sized circles on the colorful wired pages and watch my new piece of wall art come to life.
 
 ![frame of birds](img/creations/09-24-wired-collage/start-collage.png)
-![cut out cirlce](img/creations/09-24-wired-collage/circle-collage.PNG)
+![cut out circle](img/creations/09-24-wired-collage/circle-collage.PNG)
 ![mid collage](img/creations/09-24-wired-collage/mid-collage.jpg)
 ![gluing circles](img/creations/09-24-wired-collage/glue.jpg)
 ![finished collage](img/creations/09-24-wired-collage/finish-collage.png)
-
 
 
 
