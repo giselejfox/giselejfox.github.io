@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.864ab1bb.css",
-    "main.js": "/static/js/main.33a9ab7d.js",
+    "main.js": "/static/js/main.1a43a536.js",
     "static/js/495.9f4e5551.chunk.js": "/static/js/495.9f4e5551.chunk.js",
     "static/js/63.2cfcb2ad.chunk.js": "/static/js/63.2cfcb2ad.chunk.js",
     "static/js/329.c8493c23.chunk.js": "/static/js/329.c8493c23.chunk.js",
@@ -27,7 +27,7 @@
     "static/js/0.7c7c9ddd.chunk.js": "/static/js/0.7c7c9ddd.chunk.js",
     "static/js/195.2b29fb0b.chunk.js": "/static/js/195.2b29fb0b.chunk.js",
     "static/js/920.8afdb989.chunk.js": "/static/js/920.8afdb989.chunk.js",
-    "static/js/773.b3d8d316.chunk.js": "/static/js/773.b3d8d316.chunk.js",
+    "static/js/773.7d8cd689.chunk.js": "/static/js/773.7d8cd689.chunk.js",
     "static/js/970.0c093c7a.chunk.js": "/static/js/970.0c093c7a.chunk.js",
     "static/js/792.54dbe640.chunk.js": "/static/js/792.54dbe640.chunk.js",
     "static/media/07-22-community.md": "/static/media/07-22-community.75d1711b51522f9efe65.md",
@@ -44,7 +44,7 @@
     "static/media/06-22-greeting-amsterdam.md": "/static/media/06-22-greeting-amsterdam.0c44fc7f101c325328c4.md",
     "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
-    "static/media/09-24-wired-collage.md": "/static/media/09-24-wired-collage.010dbcc6c6fa9092cfa5.md",
+    "static/media/09-24-wired-collage.md": "/static/media/09-24-wired-collage.d6ba86d358b852323367.md",
     "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.b1973d182ac70b5e5d77.md",
     "static/media/10-24-knitting-3D-printing.md": "/static/media/10-24-knitting-3D-printing.6125eec21d9c0a284982.md",
     "static/media/07-22-reflection.md": "/static/media/07-22-reflection.e03d7868d77393434d1e.md",
@@ -59,10 +59,10 @@
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
     "main.864ab1bb.css.map": "/static/css/main.864ab1bb.css.map",
-    "main.33a9ab7d.js.map": "/static/js/main.33a9ab7d.js.map"
+    "main.1a43a536.js.map": "/static/js/main.1a43a536.js.map"
   },
   "entrypoints": [
     "static/css/main.864ab1bb.css",
-    "static/js/main.33a9ab7d.js"
+    "static/js/main.1a43a536.js"
   ]
 }
