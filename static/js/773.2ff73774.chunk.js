@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[773],{773:function(e,i,s){e.exports=s.p+"static/media/09-24-wired-collage.fab845cf7b7f42381726.md"}}]);
