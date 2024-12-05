@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[495],{495:function(e,i,s){e.exports=s.p+"static/media/06-22-greeting-amsterdam.0c44fc7f101c325328c4.md"}}]);

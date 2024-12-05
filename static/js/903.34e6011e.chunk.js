@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[903],{1903:function(e,i,s){e.exports=s.p+"static/media/07-22-dok.3e07095cf17227d845e5.md"}}]);
