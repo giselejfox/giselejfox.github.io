@@ -4,7 +4,7 @@
 
 I've found myself feeling overwhelmed with algorithms deciding what I see and if that means I have to try and build my own RSS reader curated for all the cross-platform content creators I actually care about then so be it.
 
-[Check out my curated, hand-built RSS reader here!](https://gisele-rss-feed.netlify.app/)
+[Check out my curated, hand-built RSS reader here!](https://gisele-data-hub.vercel.app/)
 
 Because I do like content. I do like reading, I do like watching, I just want my activities to have an end. Tiktok, Instagram, facebook, they don't have ends. I'm tired of the slog, I'm tired of the wormhole, I want to be responsible with and for my own time.
 
