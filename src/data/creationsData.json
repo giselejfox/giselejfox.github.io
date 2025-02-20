@@ -24,6 +24,14 @@
         "tags": ["collage"]
     },
     {
+        "id": "05-24-olivia-oomen-portfolio",
+        "title": "Industrial Design Portfolio",
+        "published": true,
+        "img": "olivia-oomen.jpeg",
+        "publishedDate": "05/01/24",
+        "tags": ["web-development"]
+    },
+    {
         "id": "02-24-heart-sweater",
         "title": "Noro Heart Sweater",
         "published": true,
