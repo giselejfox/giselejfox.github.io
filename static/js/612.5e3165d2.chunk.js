@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[612],{612:function(e,i,s){e.exports=s.p+"static/media/11-24-simple-internet.bcc100de366b3162f582.md"}}]);
