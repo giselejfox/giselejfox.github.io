@@ -36,7 +36,7 @@ export default function CreationsListing() {
     return (
         <div className="container">
             <h1 className="visually-hidden">Creations</h1>
-            <div className="row mt-3 mt-lg-5">
+            <div className="row mt-3 mt-lg-0">
                 {creationsElems}
             </div>
         </div>
