@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.864ab1bb.css",
-    "main.js": "/static/js/main.dc0fd7c6.js",
+    "main.js": "/static/js/main.98d3bc1e.js",
     "static/js/495.01e5a18a.chunk.js": "/static/js/495.01e5a18a.chunk.js",
     "static/js/63.dca8d87d.chunk.js": "/static/js/63.dca8d87d.chunk.js",
     "static/js/329.176544d4.chunk.js": "/static/js/329.176544d4.chunk.js",
@@ -23,12 +23,13 @@
     "static/js/953.23f489fe.chunk.js": "/static/js/953.23f489fe.chunk.js",
     "static/js/172.16dee1f9.chunk.js": "/static/js/172.16dee1f9.chunk.js",
     "static/js/229.17ec588b.chunk.js": "/static/js/229.17ec588b.chunk.js",
-    "static/js/880.13078dec.chunk.js": "/static/js/880.13078dec.chunk.js",
+    "static/js/880.b6e3740f.chunk.js": "/static/js/880.b6e3740f.chunk.js",
     "static/js/847.17346d30.chunk.js": "/static/js/847.17346d30.chunk.js",
     "static/js/382.4129a23b.chunk.js": "/static/js/382.4129a23b.chunk.js",
     "static/js/0.ae90d0ca.chunk.js": "/static/js/0.ae90d0ca.chunk.js",
     "static/js/195.e2a29008.chunk.js": "/static/js/195.e2a29008.chunk.js",
     "static/js/920.b2cc1b4a.chunk.js": "/static/js/920.b2cc1b4a.chunk.js",
+    "static/js/316.cf3d528e.chunk.js": "/static/js/316.cf3d528e.chunk.js",
     "static/js/773.ed9945d9.chunk.js": "/static/js/773.ed9945d9.chunk.js",
     "static/js/970.34001f48.chunk.js": "/static/js/970.34001f48.chunk.js",
     "static/js/792.edf79971.chunk.js": "/static/js/792.edf79971.chunk.js",
@@ -44,6 +45,7 @@
     "static/media/000-kindle.md": "/static/media/000-kindle.90362e031865084ad241.md",
     "static/media/06-22-outside.md": "/static/media/06-22-outside.19fc5f945d182a23f1f7.md",
     "static/media/11-24-rss-reader.md": "/static/media/11-24-rss-reader.86521d0f68e5ef7547a1.md",
+    "static/media/05-24-olivia-oomen-portfolio.md": "/static/media/05-24-olivia-oomen-portfolio.2aa9d924fccfabc2e3dc.md",
     "static/media/06-22-greeting-amsterdam.md": "/static/media/06-22-greeting-amsterdam.0c44fc7f101c325328c4.md",
     "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
@@ -56,17 +58,17 @@
     "static/media/10-24-NM-rock-museum.md": "/static/media/10-24-NM-rock-museum.d4b9a1cec6d54186aaef.md",
     "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.7f1708651f9abb643d77.md",
     "static/media/11-24-duvet-bag.md": "/static/media/11-24-duvet-bag.aa8a5065fd65fea85e88.md",
-    "static/media/000-favorite-websites.md": "/static/media/000-favorite-websites.5098fa6baaead21978e7.md",
+    "static/media/000-favorite-websites.md": "/static/media/000-favorite-websites.931a556ba5160f6d2fa5.md",
     "static/media/000-film-photography.md": "/static/media/000-film-photography.0ff44122c29b777bc49d.md",
     "static/media/10-24-wired-mag-art.md": "/static/media/10-24-wired-mag-art.5b3d8205b6583b03d56a.md",
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
     "main.864ab1bb.css.map": "/static/css/main.864ab1bb.css.map",
-    "main.dc0fd7c6.js.map": "/static/js/main.dc0fd7c6.js.map"
+    "main.98d3bc1e.js.map": "/static/js/main.98d3bc1e.js.map"
   },
   "entrypoints": [
     "static/css/main.864ab1bb.css",
-    "static/js/main.dc0fd7c6.js"
+    "static/js/main.98d3bc1e.js"
   ]
 }

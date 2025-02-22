@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[880],{6880:function(e,i,s){e.exports=s.p+"static/media/000-favorite-websites.5098fa6baaead21978e7.md"}}]);
