@@ -3,8 +3,14 @@
         {
             "title": "Forum One",
             "titleLink": "",
+            "subtitle": "Project Coordinator",
+            "date": "2025-Current"
+        },
+        {
+            "title": "Forum One",
+            "titleLink": "",
             "subtitle": "Solutions Analyst",
-            "date": "2023-Current"
+            "date": "2023-2024"
         },
         {
             "title": "King County Councilmember Perry",
@@ -57,6 +63,12 @@
             "titleLink": "https://www.notion.so/templates/clothing-tracker",
             "subtitle": "Notion, Relational Databases",
             "date": "2022"
+        },
+        {
+            "title": "see more",
+            "titleLink": "https://giselejfox.github.io/#/creations",
+            "subtitle": "",
+            "date": ""
         }
     ]
 }
