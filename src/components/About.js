@@ -40,7 +40,7 @@ export default function About() {
     return (
         <div className="container">
             <div className="row">
-                <p className="col-12 col-md-8 col-lg-5 pt-4 pb-lg-4">Gisele Fox is a information enthusiast and web developer with a passion for creating unique, practical solutions. Their expertise spans <span className="fw-bold">custom creative coding</span>, <span className="fw-bold">technical writing, and budgeting</span>. Currently, they work as a Project Coordinator at Forum One in the Seattle area.</p>
+                <p className="col-12 col-md-8 col-lg-5 pt-4 pb-lg-4">Gisele Fox is a information enthusiast and web developer with a passion for creating unique, practical solutions. Their expertise spans <span className="fw-bold">custom creative coding</span>, <span className="fw-bold">technical writing, and project management</span>. Currently, they work as a Project Coordinator at Forum One in the Seattle area.</p>
             </div>
             {/* <div className="horizontal-line"></div> */}
             <Row className="pb-5 pt-4">
