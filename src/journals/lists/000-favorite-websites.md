@@ -9,5 +9,7 @@
 - [Brutalist Websites](https://brutalistwebsites.com/index_backup.html) - A treasure trove of unique websites, one of my favorite places to go for inspiration.
 
 ## Blogs/Substacks I follow
-- [The Gusset - Sarah C Swett](https://sarahcswett.substack.com/) - knitter, weaver, spinner, artist, and beautiful writer about the special things in life.
+- [Substack - The Gusset - Sarah C Swett](https://sarahcswett.substack.com/) - knitter, weaver, spinner, artist, and beautiful writer about the special things in life.
 - [Blog - Jarrett Fuller](https://www.jarrettfuller.blog/) - designer, photographer, and thoughtful person with good taste.
+- [Blog - V.H. Belvadi](https://vhbelvadi.com/) - Writings on the interconnections between science, technology and society.
+- [Blog - Tracy Durnell's Mind Garden](https://tracydurnell.com/) - A place for Tracy to learn out loud.
