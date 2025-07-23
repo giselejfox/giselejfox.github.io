@@ -35,6 +35,9 @@ export default function JournalListing() {
                         <li className="list-unstyled my-3">
                             <Link className="text-dark" to={`/journal/000-kindle`}>Highlights from My Kindle</Link>
                         </li>
+                        <li className="list-unstyled my-3">
+                            <Link className="text-dark" to={`/journal/000-bunker-media`}>My Bunker Media</Link>
+                        </li>
                     </ul>
                 </div>
                 <div className="col-12 col-lg-9">
