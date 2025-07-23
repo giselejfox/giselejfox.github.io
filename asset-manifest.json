@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.864ab1bb.css",
-    "main.js": "/static/js/main.98d3bc1e.js",
+    "main.js": "/static/js/main.05d8faf0.js",
     "static/js/495.01e5a18a.chunk.js": "/static/js/495.01e5a18a.chunk.js",
     "static/js/63.dca8d87d.chunk.js": "/static/js/63.dca8d87d.chunk.js",
     "static/js/329.176544d4.chunk.js": "/static/js/329.176544d4.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/953.23f489fe.chunk.js": "/static/js/953.23f489fe.chunk.js",
     "static/js/172.16dee1f9.chunk.js": "/static/js/172.16dee1f9.chunk.js",
     "static/js/229.17ec588b.chunk.js": "/static/js/229.17ec588b.chunk.js",
-    "static/js/880.b6e3740f.chunk.js": "/static/js/880.b6e3740f.chunk.js",
+    "static/js/880.de42ed03.chunk.js": "/static/js/880.de42ed03.chunk.js",
     "static/js/847.17346d30.chunk.js": "/static/js/847.17346d30.chunk.js",
     "static/js/382.4129a23b.chunk.js": "/static/js/382.4129a23b.chunk.js",
     "static/js/0.ae90d0ca.chunk.js": "/static/js/0.ae90d0ca.chunk.js",
@@ -50,6 +50,7 @@
     "static/media/000-my-website-archive.md": "/static/media/000-my-website-archive.d6505670e420a1fadf30.md",
     "index.html": "/index.html",
     "static/media/12-24-nm-film.md": "/static/media/12-24-nm-film.ed177c20adf8f5cbead3.md",
+    "static/media/000-favorite-websites.md": "/static/media/000-favorite-websites.4c8b344bbd97d0dbaeb8.md",
     "static/media/09-24-wired-collage.md": "/static/media/09-24-wired-collage.fab845cf7b7f42381726.md",
     "static/media/10-24-georgia-okeeffe.md": "/static/media/10-24-georgia-okeeffe.b1973d182ac70b5e5d77.md",
     "static/media/10-24-knitting-3D-printing.md": "/static/media/10-24-knitting-3D-printing.6125eec21d9c0a284982.md",
@@ -58,17 +59,16 @@
     "static/media/10-24-NM-rock-museum.md": "/static/media/10-24-NM-rock-museum.d4b9a1cec6d54186aaef.md",
     "static/media/08-24-open-hand.md": "/static/media/08-24-open-hand.7f1708651f9abb643d77.md",
     "static/media/11-24-duvet-bag.md": "/static/media/11-24-duvet-bag.aa8a5065fd65fea85e88.md",
-    "static/media/000-favorite-websites.md": "/static/media/000-favorite-websites.931a556ba5160f6d2fa5.md",
     "static/media/000-film-photography.md": "/static/media/000-film-photography.0ff44122c29b777bc49d.md",
     "static/media/10-24-wired-mag-art.md": "/static/media/10-24-wired-mag-art.5b3d8205b6583b03d56a.md",
     "static/media/08-24-ode-consignment.md": "/static/media/08-24-ode-consignment.3578dbf459f54847977f.md",
     "static/media/10-24-package-myself.md": "/static/media/10-24-package-myself.44a440c1a966d518b412.md",
     "static/media/000-things-I-like-to-look-at.md": "/static/media/000-things-I-like-to-look-at.08e365002b1ed9611654.md",
     "main.864ab1bb.css.map": "/static/css/main.864ab1bb.css.map",
-    "main.98d3bc1e.js.map": "/static/js/main.98d3bc1e.js.map"
+    "main.05d8faf0.js.map": "/static/js/main.05d8faf0.js.map"
   },
   "entrypoints": [
     "static/css/main.864ab1bb.css",
-    "static/js/main.98d3bc1e.js"
+    "static/js/main.05d8faf0.js"
   ]
 }
