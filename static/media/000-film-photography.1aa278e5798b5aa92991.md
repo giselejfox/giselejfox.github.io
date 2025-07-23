@@ -1,6 +1,12 @@
 # Film photography
 A select collectio of my film photos throughout the years. I've never gone through more than two rolls a year and have been borrowing different cameras throughout.
 
+# 2024
+### New Mexico
+![Warren with a blue shirt standing in front of a stained glass window](/img/journal/12-24-nm-film/dad-window.jpg)
+![American flag partically obscuring a Texas BBQ meal](/img/journal/12-24-nm-film/bbq.jpg)
+![Airplane view of Seattle with downtown splitting the clouds](/img/journal/12-24-nm-film/seattle-clouds.jpg)
+
 ## 2019
 ![Meredeth on the couch with a scarf draped over her face](/img/film-photography/2019-m-sleeping.jpeg)
 ![Blurry photo of a black and white cat](/img/film-photography/2019-albert.jpeg)
