@@ -17,6 +17,11 @@ code {
     monospace;
 }
 
+/* Navbar */
+.navbar-toggler {
+  border: none;
+}
+
 /* Main About Page */
 
 .intro-paragraph {
