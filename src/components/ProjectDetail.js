@@ -24,7 +24,7 @@ export default function ProjectDetail() {
     return (
         <div className="container py-5 mt-3">
             <div className='row'>
-                <div className='col-12 col-lg-3 mt-3 d-flex justify-content-end'>
+                <div className='pb-4 col-12 col-lg-3 mt-3 d-flex justify-content-start justify-content-lg-end'>
                     <Link className="text-dark text-decoration-none d-flex flex-row me-5" to={"/"} aria-label="Go back">
                         <div className='me-2'>
                             <svg height="18" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label='back'>

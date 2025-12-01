@@ -15,7 +15,7 @@ export default function HomepageContent() {
         return (
             <>
                 {titleURL ? (
-                    <div className="col-12 col-lg-4">
+                    <div className="col-12 col-lg-4 mb-4 mb-lg-0">
                         <a className="text-dark" href={titleURL}>
                             <h3 className="about-h3 fw-bold mb-1 about-h3-link">
                                 {title}
@@ -29,7 +29,7 @@ export default function HomepageContent() {
                         <div className="lh-sm">{subtitle}</div>
                     </div>
                 ) : (
-                    <div className="col-12 col-lg-4">
+                    <div className="col-12 col-lg-4 mb-4 mb-lg-0">
                         <h3 className="about-h3 fw-bold mb-1">{title}</h3>
                         <div className="lh-sm pb-1">{subtitle}</div>
                         <div className="lh-sm fs-italics">{date}</div>
@@ -42,12 +42,12 @@ export default function HomepageContent() {
     return (
         <div className="container py-5 mt-3">
             <div className="row">
-                <div className="col-12 col-lg-3 d-flex flex-column align-items-center">
+                <div className="col-12 col-lg-3 d-flex flex-column pb-5 ps-4 ps-lg-0 align-items-start align-items-lg-center">
                     <img className="homepage-image" src={"img/2min_sketches/" + currentImageIndex + ".jpeg"} alt="line drawing of me" />
                 </div>
                 <div className="col-12 col-lg-6 landing-page-content row">
                     <h1>Gisele Fox <span className="small-h1">(she/they)</span></h1>
-                    <p>Hello! I am a information enthusiast and web developer with a passion for creating unique, practical solutions.</p>
+                    <p>Hello! I am a information enthusiast and web developer with a passion for creating unique yet practical solutions.</p>
                     <p>Right now I wear many hats at Forum One where I coordinate website projects/portfolios and contribute to business development proposals.</p>
                     <p>On the side I like to creatively code websites. My most active project these days has been developing Olivia Oomen's industrial design portfolio that includes a custom homepage with matter.js draggable objects and a connection to the Contentful CMS.</p>
                     <p>Interested in working together? I'm working on building my portfolio so I would be too! Feel free to send me an email if you have fun ideas you want to see brought to life.</p>

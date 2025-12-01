@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit');
-/* @import url('https://fonts.googleapis.com/css?family=Hanuman'); */
 
 html {
   font-size: 16px;
@@ -17,29 +16,11 @@ code {
     monospace;
 }
 
-/* Navbar */
-.navbar-toggler {
-  border: none;
-}
-
 /* Main About Page */
 
-.intro-paragraph {
-  font-size: 20px;
-}
-
 .landing-page-content > p {
   margin-bottom: 1rem;
 }
-
-.landing-page-content > p {
-  margin-bottom: 1rem;
-}
-
-/* .homepage-image {
-  width: 10rem;
-  height: 15rem;
-} */
 
 .small-h1 {
   font-size: 24px;
@@ -47,12 +28,12 @@ code {
 }
 
 .homepage-image {
-  width: 100%;
+  height: 10rem;
+  width: auto;
 }
 
 .horizontal-line {
   height: 1px;
-  /* background-color: #E2E2E2; */
   background-color: #dddddd;
   width: 100%;
 }
@@ -82,42 +63,8 @@ code {
 
 /* When going to a medium sized screen and up */
 @media (min-width: 768px) {
-  .intro-paragraph {
-    font-size: 36px;
-  }
-
-  /* .homepage-image {
-    width: 20rem;
-    height: 30rem;
-  } */
   .homepage-image {
     height: 15rem;
     width: auto; 
   }
-}
-
-/* Listings */
-
-.eyebrow-text {
-  font-size: 12px;
-  text-decoration: none;
-}
-
-/* Creations */
-
-.creations-img {
-  max-height: 14rem;
-  width: 100%;
-  object-fit: contain;
-}
-
-.image-placeholder {
-  width: 100%;
-  height: 14rem;
-  ;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 14px;
-  color: #888;
 }
