@@ -22,7 +22,7 @@ export default function About() {
                     {textChunk.titleLink === "" ?
                         <h3 className="about-h3 fw-bold mb-1">{textChunk.title}</h3>
                         :
-                        <a className="text-dark" href={textChunk.titleLink} target="_blank" rel="noreferrer" ><h3 className="about-h3 fw-bold mb-1">{textChunk.title}
+                        <a className="text-dark" href={textChunk.titleLink} target="_blank" rel="noreferrer" ><h3 className="about-h3 fw-bold mb-1 about-h3-link">{textChunk.title}
                             <span className="ps-1">
                                 <svg width="12" height="12" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0.494309 12.5916C0.103785 12.9821 0.103785 13.6153 0.494309 14.0058C0.884834 14.3963 1.518 14.3963 1.90852 14.0058L0.494309 12.5916ZM13.7988 1.70129C13.7988 1.14901 13.3511 0.701294 12.7988 0.701294L3.79883 0.701294C3.24654 0.701294 2.79883 1.14901 2.79883 1.70129C2.79883 2.25358 3.24654 2.70129 3.79883 2.70129H11.7988V10.7013C11.7988 11.2536 12.2465 11.7013 12.7988 11.7013C13.3511 11.7013 13.7988 11.2536 13.7988 10.7013L13.7988 1.70129ZM1.90852 14.0058L13.5059 2.4084L12.0917 0.994187L0.494309 12.5916L1.90852 14.0058Z" fill="black"/>

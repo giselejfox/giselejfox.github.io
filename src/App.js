@@ -1,30 +1,18 @@
-import { Route } from "react-router-dom";
-import { HashRouter, Routes } from 'react-router-dom';
-import React from "react";
-
-// Import other js files
-import NavBar from "./components/NavBar.js";
-import About from "./components/About.js"
-import JournalListing from "./components/JournalListing.js";
-import JournalPost from "./components/JournalPost.js";
-import CreationsListing from "./components/CreationsListing.js";
-import CreationsDetail from "./components/CreationsDetail.js";
+import { HashRouter, Routes, Route } from 'react-router-dom';
+import HomepageContent from './components/HomepageContent';
+import ProjectDetail from './components/ProjectDetail';
 
 function App() {
+
   return (
     <HashRouter basename="/" >
       <div className="App">
-        <NavBar />
         <Routes>
-          <Route path="/journal" element={<JournalListing />} />
-          <Route path="/journal/:postId" element={<JournalPost />} />
-          <Route path="/creations" element={<CreationsListing />} />
-          <Route path="/creations/:postId" element={<CreationsDetail />} />
-          <Route path="/" element={<About />} />
+          <Route path="/:projectId" element={<ProjectDetail />} />
+          <Route path="/" element={<HomepageContent />} />
         </Routes>
       </div> 
     </HashRouter>
-
   );
 }
 
