@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[835],{3835:function(e,i,s){e.exports=s.p+"static/media/10-24-NM-rock-museum.d4b9a1cec6d54186aaef.md"}}]);

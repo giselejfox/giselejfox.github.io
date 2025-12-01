@@ -1,4 +1,4 @@
-# Personalized Data Hub
+# Personalized Feed Reader
 
 [Live Project](https://gisele-data-hub.vercel.app/) | [Github link](https://github.com/giselejfox/gisele-data-hub)
 

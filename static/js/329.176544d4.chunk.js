@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[329],{9329:function(e,i,s){e.exports=s.p+"static/media/06-22-intentional-design.03fd44565c29c022e28e.md"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[957],{957:function(e,i,s){e.exports=s.p+"static/media/24-08-ode-consignment.3578dbf459f54847977f.md"}}]);

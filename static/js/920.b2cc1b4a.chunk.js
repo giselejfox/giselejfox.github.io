@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[920],{3920:function(e,i,s){e.exports=s.p+"static/media/02-24-heart-sweater.9b7c4b19118b7b0f40b1.md"}}]);

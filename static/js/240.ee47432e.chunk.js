@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[240],{240:(e,i,o)=>{e.exports=o.p+"static/media/olivia-oomen-portfolio.2aa9d924fccfabc2e3dc.md"}}]);

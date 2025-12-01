@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[63],{4063:function(e,i,s){e.exports=s.p+"static/media/06-22-high-value.b3670002226892244c51.md"}}]);

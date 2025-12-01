@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[933],{9933:function(e,s,i){e.exports=i.p+"static/media/24-10-craft-snapshot.f3d2a875cd940c27b48f.md"}}]);

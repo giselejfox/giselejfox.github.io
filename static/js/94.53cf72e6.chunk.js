@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[94],{6094:function(i,e,s){i.exports=s.p+"static/media/02-11-passing-down-info.7ad31fa13a338127adb6.md"}}]);

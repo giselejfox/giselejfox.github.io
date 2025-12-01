@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[756],{756:(e,i,a)=>{e.exports=a.p+"static/media/diy-feed-reader.20e53a4716a7a8d9a8d5.md"}}]);

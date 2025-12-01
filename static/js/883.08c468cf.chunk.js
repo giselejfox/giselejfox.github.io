@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[883],{7883:function(i,e,s){i.exports=s.p+"static/media/25-07-grandiosity-industry.aac19dce24414ad88df5.md"}}]);

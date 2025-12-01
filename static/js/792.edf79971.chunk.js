@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiselejfox_github_io=self.webpackChunkgiselejfox_github_io||[]).push([[792],{8792:function(e,s,i){e.exports=i.p+"static/media/11-24-rss-reader.86521d0f68e5ef7547a1.md"}}]);
