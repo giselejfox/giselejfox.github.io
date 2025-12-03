@@ -11,9 +11,6 @@ export default function ProjectDetail() {
     const [contentAndData, setContentAndData] = useState('');
 
     useEffect(() => {
-        // get the right year folder in the path
-        // let finalPath = `20${postId.substring(3, 5)}/${postId}`
-        // get the markdown file
         import(`../projects/${projectId}.md`)
             .then((res) => fetch(res.default))
             .then((res) => res.text())

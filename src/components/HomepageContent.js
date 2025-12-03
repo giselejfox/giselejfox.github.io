@@ -51,7 +51,7 @@ export default function HomepageContent() {
                     <p>Right now I wear many hats at Forum One where I coordinate website projects/portfolios and contribute to business development proposals.</p>
                     <p>On the side I like to creatively code websites. My most active project these days has been developing Olivia Oomen's industrial design portfolio that includes a custom homepage with matter.js draggable objects and a connection to the Contentful CMS.</p>
                     <p>Interested in working together? I'm working on building my portfolio so I would be too! Feel free to send me an email if you have fun ideas you want to see brought to life.</p>
-                    
+
                     <h2 className="about-h2">projects</h2>
                     <div className="horizontal-line mb-3"></div>
                     <div className="row">
@@ -111,19 +111,22 @@ export default function HomepageContent() {
                             date={"2019-2020"}
                         />
                     </div>
-                    
+
                     <h2 className="about-h2">contact</h2>
                     <div className="horizontal-line mb-3"></div>
-                    {/* <p>Visit my personal website to see my knitting, funky smaller websites, and thoughts about libraries!</p> */}
-                    <div className="d-flex flex-row"></div>
-                    <div className="" >
-                        <h3 className="about-h3 fw-bold mb-1">EMAIL</h3>
-                        <div className="lh-sm">giselejfox@gmail.com</div>
-                    </div>
-                    <div className="pt-3" >
-                        <h3 className="about-h3 fw-bold mb-1">OTHER</h3>
-                        <a className="text-dark" href="https://www.linkedin.com/in/giselejfox/" target="_blank" rel="noreferrer" ><div>LinkedIn</div></a>
-                        <a className="text-dark" href="https://github.com/giselejfox" target="_blank" rel="noreferrer" ><div>Github</div></a>
+                    <div className="d-flex flex-row">
+                        <div className="col-12 col-lg-4" >
+                            <h3 className="about-h3 fw-bold mb-1">EMAIL</h3>
+                            <div className="lh-sm">giselejfox@gmail.com</div>
+                            <div className="pt-3" >
+                                <h3 className="about-h3 fw-bold mb-1">OTHER</h3>
+                                <a className="text-dark" href="https://www.linkedin.com/in/giselejfox/" target="_blank" rel="noreferrer" ><div>LinkedIn</div></a>
+                                <a className="text-dark" href="https://github.com/giselejfox" target="_blank" rel="noreferrer" ><div>Github</div></a>
+                            </div>
+                        </div>
+                        <div className="col-12 col-lg-8">
+                            <p>Visit my <a className="text-dark" href="https://giselejfox.github.io/digital-garden" target="_blank" rel="noreferrer" >🌱 digital garden</a> to get a better picture of what I'm thinking about these days.</p>
+                        </div>
                     </div>
                 </div>
             </div>
