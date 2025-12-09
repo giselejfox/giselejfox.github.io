@@ -114,7 +114,7 @@ export default function HomepageContent() {
 
                     <h2 className="about-h2">contact</h2>
                     <div className="horizontal-line mb-3"></div>
-                    <div className="d-flex flex-row">
+                    <div className="row">
                         <div className="col-12 col-lg-4" >
                             <h3 className="about-h3 fw-bold mb-1">EMAIL</h3>
                             <div className="lh-sm">giselejfox@gmail.com</div>
@@ -124,7 +124,7 @@ export default function HomepageContent() {
                                 <a className="text-dark" href="https://github.com/giselejfox" target="_blank" rel="noreferrer" ><div>Github</div></a>
                             </div>
                         </div>
-                        <div className="col-12 col-lg-8">
+                        <div className="col-12 col-lg-8 pt-3 pt-lg-0">
                             <p>Visit my <a className="text-dark" href="https://giselejfox.github.io/digital-garden" target="_blank" rel="noreferrer" >🌱 digital garden</a> to get a better picture of what I'm thinking about these days.</p>
                         </div>
                     </div>
